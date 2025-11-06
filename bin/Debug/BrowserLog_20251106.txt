@@ -1,0 +1,224 @@
+[2025-11-06 00:57:14.206] Loaded 9 blocked keywords from file
+[2025-11-06 00:57:14.226] Application started
+[2025-11-06 00:57:14.235] Form loaded
+[2025-11-06 00:57:14.249] Starting async navigation to: https://www.bing.com/
+[2025-11-06 00:57:14.290] Attempting navigation to: https://www.bing.com/
+[2025-11-06 00:57:14.550] Successfully navigated to: https://www.bing.com/
+[2025-11-06 00:57:14.611] Document completed loading: https://www.bing.com/
+[2025-11-06 00:57:15.477] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-11-06 00:57:15.751] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQsOwNnl5zjdTKlCoZu4lZFFvk83laKqP1e-J4scuueLRaoLCD6j4IEJmz-NQQV4Pknpz80wgjPiHiQBDzwImM-yNkQkuLtz_2s0RdCJ9eqslN1xfU3QMKpRF_uYV7nwT1qmiBLlsiuYS2pj50ftN3bgBEeAcjsTbFHSPoA5ZJjZ6MEbYec674eUGzaNbyl0G9kSo4mWgGUoISm6q6tljvCH520Lg6LILuGk5QiAVnFBO91QVvETHwn7_Gt2PYvBRDPpoKD9tifPMcQayraDl4PrUm4IXRT4_aR7nliBXDOidv9u5-cTJE2QexiS3hdNU7E5mNGHrrQ_aAenv2GayF6XPkVeHvA7Ta5pV1eA-bKoIWrOvbBFpdpB6fwWaYfJ6OgzxoruYw7JP7CxajAOhPME&response_mode=form_post&nonce=638979802358308604.NDVlNzAyOWQtOGRhMy00MGI2LWJmZDYtZTQ1ZGJjNDQ3Y2JiYzg5OTljZDctNzRlMy00ZmM5LWFhZDEtMjQzNWFhNjk3MGIy&prompt=none&code_challenge=KTdPAJtBOrLbq6M1yIr09iCSv0J1DN25tqId8Zz08gM&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=445f5860542349d79a22558087f6b266&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtK03TnqpFLAMmK7gh_-OvQ7NJh2S1EHdAs3wPQqeEokBJ7E0ZBAmz77MHWtnvxGzNvqqIiMzv2g1Jv5e_y84hiial9ALclTNQRNRi4jmdyHFPl0mcYbK5Dv9y7DIRYZWjrry5vvFAQxB5mFtOnTLjcHNjt4Wj-qKrwt6MtrUPzshJgmH6iv05t4E3kDPU5yiFXxQosO54z-hFPl8sLztxreSAA&jshs=0
+[2025-11-06 00:57:15.849] Application closing
+[2025-11-06 00:57:15.851] Saved 9 blocked keywords to file
+[2025-11-06 01:04:09.087] Loaded 9 blocked keywords from file
+[2025-11-06 01:04:09.109] Application started
+[2025-11-06 01:04:09.120] Form loaded
+[2025-11-06 01:04:09.140] Starting async navigation to: https://www.bing.com/
+[2025-11-06 01:04:09.175] Attempting navigation to: https://www.bing.com/
+[2025-11-06 01:04:09.489] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:04:09.613] Document completed loading: https://www.bing.com/
+[2025-11-06 01:04:10.423] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-11-06 01:04:10.682] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQscqbvNK3qVBc_O3G1Lz1VxHQ5ubVt1G0l7Rc7GMJnWU_V2A5U9jIYFUxWwBiAVes7hewC2Z2KCwhdaf086UueDwHkLtGulVCX5657c1CMGoYEsq9mar6Ps-HTFcnrVH5sPpODphJpN9hhNU9WsF5cKSWidpnleG79ivvK5FEHIoHlwwUIMfAduzQjD_q6DU8Heiy1Q_x2SCIrKhOPhSRnxFRuNnhQVJMoayXh1It9KjUBbrYLgs_W0xPq_ZIcPWUhlktYS6l4bMo-FctQhAv2XsiT_bxm9Pro0xEOtDMP4EEz2LVap5byfpKKAf9fDF5JG5UphijUN2snv76hKi4HJvZb4xboDx2yfgBtLgfMkLLid-aMDWjSGQGGQZkEPNlHEKFQ3ytGeYblNGWwbv4FB&response_mode=form_post&nonce=638979806507845702.MTk1NWVmNmItNjdkZS00M2RlLWE4N2QtNmM5NTZjYmE3OWIxMDBhNDQ3ZmYtZTEzNi00NGY2LWIyMzYtYjVkZDkyYTQyMDRj&prompt=none&code_challenge=4eeTMYHQkip-axk5g9HTvyEVH8dxJZ5lol5fAq1AoMI&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=107c13424e424709995c565d487c5169&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKLe8xiXrDq7vFP3oE1YAyYv7FM1GqHQYujgZ1V2SHFalraZ0ILTCR3gxAg0xGdtzN_RMrbiE9o9ZsDfLHByI0VYxnr50iE74xDzhZoRD08eq78AgdZ0Z6sdDLQ5HQSPSZGfBy61WJVHMv2WAOd-UnBQRdzmHbh8I_wUjNeGskgt-NwE-Fh_o_LAu8EnHfsZKhT3On16BHaBZvt1sgjZGhFCAA&jshs=0
+[2025-11-06 01:04:10.947] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:04:10.948] Document completed loading: https://www.bing.com/
+[2025-11-06 01:04:10.949] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-11-06 01:04:11.046] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:04:11.047] Document completed loading: https://www.bing.com/
+[2025-11-06 01:04:11.337] SQLite Test button clicked
+[2025-11-06 01:04:11.337] ERROR: sqlite3.exe not found at: C:\Users\antal\OneDrive\Asztali gép\estigyak\Labor4\bin\Debug\sqlite3.exe
+
+Please download sqlite3.exe from https://www.sqlite.org/download.html
+and place it in the application directory.
+[2025-11-06 01:09:01.056] Loaded 9 blocked keywords from file
+[2025-11-06 01:09:01.076] Application started
+[2025-11-06 01:09:01.086] Form loaded
+[2025-11-06 01:09:01.102] Starting async navigation to: https://www.bing.com/
+[2025-11-06 01:09:01.145] Attempting navigation to: https://www.bing.com/
+[2025-11-06 01:09:01.426] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:09:01.493] Document completed loading: https://www.bing.com/
+[2025-11-06 01:09:02.342] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-11-06 01:09:02.631] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQsOXCm4T3CThNVAPlmyL1msqBPllMOtevXbscLyaCnnsG4BPd90wo3srRj5wL-g-sKpKNhluorqCK3nSxCTVjCgIwJEmM7P8OzsPu_xBuJyJwLDO2eCbVLrtYVW0fCxbocnzCIReGcXtns6tG_fINyVsoRLSG8sUnpdjuzLLCM8MURzdcS36TrWkE1gJwCPIdY8md1B9XQN1v62gvgwQl6ifyHAGEIOFTBTmBeGRjnoHZfeeGvuIQER3DUa5CkL7VL1LGsERN4YkkrUi2Bn5YM4ALGBWjj-y0Ifm7YEf-Wlg7JDI2wlgwOYIlUz7ZInvEv2dKNX6istTSI9yFS9VSWyQTWSWY3ygVduDlm3m1quy8rZU_EodvtgAF62nrPiDsC9XYOAQQyfhsCw_MkBYC5p&response_mode=form_post&nonce=638979809426911646.MmE2NTI5MTQtMjMwNS00NjE2LWJjOGUtNjc0YjhjNThjYzcwZjhhOWUxNDgtMTBhMy00ZTRiLWE3MWQtOTM2MWEyYzc5NzJh&prompt=none&code_challenge=M0u-lEsro9UVNriok2phYj2mhz_u7yPeMrrbbOtdN3w&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=8f8d9aa5e96e450dad8368952b39638d&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKhGPyEnUsCa6ZHazD3KJRm75HnpBOwF-B9H7wDM7rbg5NMJAWG8HbG4_GzNLcWU9VX5LuWz_hj2oZ7AZDDgokmiQ44W_N9V4aHpoJYNhh1T4SfzNrfIoVSCb2-yq6NaaLoEFrBEfXPcRm_mWAHXDPmsLeqUl8v_6R5kdPav1uV7LKkbQaxaj4ej2oqQ0CLsFhGGQAbQJ25sLmfDl-k5j2UiAA&jshs=0
+[2025-11-06 01:09:02.914] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:09:02.915] Document completed loading: https://www.bing.com/
+[2025-11-06 01:09:02.916] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-11-06 01:09:03.014] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:09:03.015] Document completed loading: https://www.bing.com/
+[2025-11-06 01:09:03.247] SQLite Test button clicked
+[2025-11-06 01:09:03.247] Starting SQLite database operations using System.Data.SQLite
+[2025-11-06 01:09:03.247] Database path: C:\Users\antal\OneDrive\Asztali gép\estigyak\Labor4\bin\Debug\users.db
+[2025-11-06 01:09:03.406] Creating new database file
+[2025-11-06 01:09:03.407] Step 1: Creating Users table
+[2025-11-06 01:09:03.410] Executing SQL command: 
+                    CREATE TABLE IF NOT EXISTS Users (
+                        Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                        FirstName TEXT NOT NULL,
+                        LastName TEXT NOT NULL,
+                        CNP TEXT NOT NULL
+                    );
+[2025-11-06 01:09:03.509] ERROR executing SQL command: Unable to load DLL 'e_sqlite3': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+[2025-11-06 01:09:03.567] ERROR: Error during database operations: Unable to load DLL 'e_sqlite3': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+[2025-11-06 01:09:22.927] SQLite operations completed successfully
+[2025-11-06 01:09:24.700] Application closing
+[2025-11-06 01:09:24.702] Saved 9 blocked keywords to file
+[2025-11-06 01:11:59.956] Loaded 9 blocked keywords from file
+[2025-11-06 01:11:59.977] Application started
+[2025-11-06 01:11:59.988] Form loaded
+[2025-11-06 01:12:00.004] Starting async navigation to: https://www.bing.com/
+[2025-11-06 01:12:00.048] Attempting navigation to: https://www.bing.com/
+[2025-11-06 01:12:00.347] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:12:00.424] Document completed loading: https://www.bing.com/
+[2025-11-06 01:12:01.317] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-11-06 01:12:01.361] SQLite Test button clicked
+[2025-11-06 01:12:01.361] Starting SQLite database operations using System.Data.SQLite
+[2025-11-06 01:12:01.361] Database path: C:\Users\antal\OneDrive\Asztali gép\estigyak\Labor4\bin\Debug\users.db
+[2025-11-06 01:12:01.512] Step 1: Creating Users table
+[2025-11-06 01:12:01.514] Executing SQL command: 
+                    CREATE TABLE IF NOT EXISTS Users (
+                        Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                        FirstName TEXT NOT NULL,
+                        LastName TEXT NOT NULL,
+                        CNP TEXT NOT NULL
+                    );
+[2025-11-06 01:12:01.622] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQsraJrjHuf7fR3O9y1Omk02opVySRf6vXY39tekVb6w9n3-2q3-DdM9UexyGpydn5JsjdR7ou6C4BIxvwEG1sV0ynuV8_yufztzxM7mIOTkZ3NYsuZmG1d2AsU4vnxD5__P3oyvFx8Z5xlzVTvQGiwJYKIDmZuOwNELIPe_xqE3xKAAwUvDS8mYLDFhBj2pevlg7AMRfXd7hBVlMzY3Y-Aamjhili9NfkQSyr8lkew2tCs7G6EoAhTQvbpbIxxMcUk5RcxuGOetGGH_w3IVQpxUQGTcxsnpxZJVpAv2JG03KEmsfQZnsTWPj_SlH1gAtrvCYztTuTzeuy6gsdXfJ-DrxNwQC2rC-SxggW1nOSeS_OvlSqHYgXUEWt3YGze578NBI0fATzCbyYs28TYV9W-4&response_mode=form_post&nonce=638979811216802546.NGVlNTc0MjMtMGQzYi00ZWUxLThjNjYtNDhiZWU3OWYzYzgyNzc5YmUyOWItYjAyNC00OGE0LWE1MzktMmY5OGJlNmU0NzNh&prompt=none&code_challenge=2ZQBefdJ9ky26TLzwSoAHE3zFuvKfUKa_k-cao20TlY&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=edf5f9e25d314673a856636d8af77bb6&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKqXtZ2C7VGnGc6qgsqhE6qOHfeEK-u1Eyjv3DGG2GmHhen2Mx6A1yAV-UCAqQVdPAz123CGXDiG88SJKsPWc2ECmRIt6Tke8HL0xneW9TzAhWsOIwTqyFAEdOys-0hB2EyQhV6OslJFo-dXKZyv3vqNyABVYCQir1O32_LFtR6SuCiLFd5ftli8UXa2ZIxdRTirR0O6fUE0aPqH7o4oFjSyAA&jshs=0
+[2025-11-06 01:12:01.629] Database connection opened: C:\Users\antal\OneDrive\Asztali gép\estigyak\Labor4\bin\Debug\users.db
+[2025-11-06 01:12:01.730] SQL command completed. Rows affected: 0
+[2025-11-06 01:12:01.730] Step 2: Inserting 3 users
+[2025-11-06 01:12:01.731] Executing SQL command: INSERT INTO Users (FirstName, LastName, CNP) VALUES ('John', 'Doe', '1234567890123');
+[2025-11-06 01:12:01.737] SQL command completed. Rows affected: 1
+[2025-11-06 01:12:01.737] Executing SQL command: INSERT INTO Users (FirstName, LastName, CNP) VALUES ('Jane', 'Smith', '9876543210987');
+[2025-11-06 01:12:01.741] SQL command completed. Rows affected: 1
+[2025-11-06 01:12:01.741] Executing SQL command: INSERT INTO Users (FirstName, LastName, CNP) VALUES ('Robert', 'Johnson', '5555555555555');
+[2025-11-06 01:12:01.746] SQL command completed. Rows affected: 1
+[2025-11-06 01:12:01.746] Step 3: Displaying all users
+[2025-11-06 01:12:01.747] Executing SQL query: SELECT Id, FirstName, LastName, CNP FROM Users;
+[2025-11-06 01:12:01.752] SQL query completed successfully
+[2025-11-06 01:12:01.752] Step 4: Deleting all data entries
+[2025-11-06 01:12:01.752] Executing SQL command: DELETE FROM Users;
+[2025-11-06 01:12:01.756] SQL command completed. Rows affected: 3
+[2025-11-06 01:12:01.756] Step 5: Dropping Users table
+[2025-11-06 01:12:01.756] Executing SQL command: DROP TABLE IF EXISTS Users;
+[2025-11-06 01:12:01.762] SQL command completed. Rows affected: 3
+[2025-11-06 01:12:01.765] Database connection closed
+[2025-11-06 01:12:01.765] All SQLite operations completed successfully
+[2025-11-06 01:12:01.902] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:12:01.903] Document completed loading: https://www.bing.com/
+[2025-11-06 01:12:01.905] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-11-06 01:12:01.999] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:12:01.999] Document completed loading: https://www.bing.com/
+[2025-11-06 01:12:05.578] SQLite operations completed successfully
+[2025-11-06 01:12:06.573] Application closing
+[2025-11-06 01:12:06.574] Saved 9 blocked keywords to file
+[2025-11-06 01:21:30.233] Loaded 9 blocked keywords from file
+[2025-11-06 01:21:30.255] Application started
+[2025-11-06 01:21:30.265] Form loaded
+[2025-11-06 01:21:30.282] Starting async navigation to: https://www.bing.com/
+[2025-11-06 01:21:30.328] Attempting navigation to: https://www.bing.com/
+[2025-11-06 01:21:30.594] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:21:30.744] Document completed loading: https://www.bing.com/
+[2025-11-06 01:21:31.543] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-11-06 01:21:31.864] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQtAR8EMY9DrBDSTWPFuh1nAc4R2fZEcV-Rub16EyeI0XAzLN2vzITre7LKSnXPYurQB8vdGajYSILdVDv5H8Dm9ftAus0zMhMOHJv7kI6U_xEPVK0_IAaVK52oYVEs9ftx-zecs2SvZj3ArKR26WckccZ_q6Xa2UweGXr8O3okDeBamL47Fwx0g7tnuOwaxP_t7XH-4hZhQguFJu4VM8Ru9drFYk5TPwFufi-dLRRqT-RbqdWBF0c_qldwYYnnfwu2vtywPZo6EoZU6rYD0Q3vnlScX8M9mGefu3qzct-Fgam16KjRuYGUaaPCy-wQAoLVT1XJBlKstaATgys23tdrt2DVHcw6sQchJO7c_pKCzOKu6i4QoxzLASqFYr7eePJ2aeEsApc8BerwkAJulC9mz&response_mode=form_post&nonce=638979816919062177.ZjBmZjcwMjMtMjlmMS00ZDE0LWFmOGYtMzJhOTAwM2MxYmQwYTM3MWY3NTUtZjMyMS00MjhiLTlkMGMtYTA1YmNjMmVlODE4&prompt=none&code_challenge=2TgAG6D6_zWpeAaM2gFWLS4O5UQHwbk6MgIW_1c0zps&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=7fb235885f21414e9687469032c531af&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKgGJSdC41b-lv9yiJUSgHMZmhyQnBrAclHTKLbG3vyO14OtrcTPdLFl1-ijGYDbxSnkO2HM-rvYh42E4QN2wPWWMfkZcduCJ-MfkqUfANt7sD59Sw92b6HeoIRgd1BNPBx3qbqto0pwfza6gbnY4n53vctP6SAV-gkNf7NMXCCjCixTVchNT8MNQs3WkE-WkKCke_yzQmzKmzGM0_lwETJCAA&jshs=0
+[2025-11-06 01:21:32.125] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:21:32.126] Document completed loading: https://www.bing.com/
+[2025-11-06 01:21:32.127] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-11-06 01:21:32.225] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:21:32.225] Document completed loading: https://www.bing.com/
+[2025-11-06 01:21:34.983] Add blocked keyword failed: Empty keyword
+[2025-11-06 01:21:38.266] SQLite Test button clicked
+[2025-11-06 01:21:38.266] Starting SQLite database operations using System.Data.SQLite
+[2025-11-06 01:21:38.266] Database path: C:\Users\antal\OneDrive\Asztali gép\estigyak\Labor4\bin\Debug\users.db
+[2025-11-06 01:21:38.378] Step 1: Creating Users table
+[2025-11-06 01:21:38.381] Executing SQL command: 
+                    CREATE TABLE IF NOT EXISTS Users (
+                        Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                        FirstName TEXT NOT NULL,
+                        LastName TEXT NOT NULL,
+                        CNP TEXT NOT NULL
+                    );
+[2025-11-06 01:21:38.513] Database connection opened: C:\Users\antal\OneDrive\Asztali gép\estigyak\Labor4\bin\Debug\users.db
+[2025-11-06 01:21:38.530] SQL command completed. Rows affected: 0
+[2025-11-06 01:21:38.530] Step 2: Inserting 3 users
+[2025-11-06 01:21:38.530] Executing SQL command: INSERT INTO Users (FirstName, LastName, CNP) VALUES ('John', 'Doe', '1234567890123');
+[2025-11-06 01:21:38.534] SQL command completed. Rows affected: 1
+[2025-11-06 01:21:38.534] Executing SQL command: INSERT INTO Users (FirstName, LastName, CNP) VALUES ('Jane', 'Smith', '9876543210987');
+[2025-11-06 01:21:38.537] SQL command completed. Rows affected: 1
+[2025-11-06 01:21:38.537] Executing SQL command: INSERT INTO Users (FirstName, LastName, CNP) VALUES ('Robert', 'Johnson', '5555555555555');
+[2025-11-06 01:21:38.542] SQL command completed. Rows affected: 1
+[2025-11-06 01:21:38.542] Step 3: Displaying all users
+[2025-11-06 01:21:38.543] Executing SQL query: SELECT Id, FirstName, LastName, CNP FROM Users;
+[2025-11-06 01:21:38.547] SQL query completed successfully
+[2025-11-06 01:21:38.547] Step 4: Deleting all data entries
+[2025-11-06 01:21:38.547] Executing SQL command: DELETE FROM Users;
+[2025-11-06 01:21:38.552] SQL command completed. Rows affected: 3
+[2025-11-06 01:21:38.552] Step 5: Dropping Users table
+[2025-11-06 01:21:38.552] Executing SQL command: DROP TABLE IF EXISTS Users;
+[2025-11-06 01:21:38.556] SQL command completed. Rows affected: 3
+[2025-11-06 01:21:38.559] Database connection closed
+[2025-11-06 01:21:38.559] All SQLite operations completed successfully
+[2025-11-06 01:21:40.828] SQLite operations completed successfully
+[2025-11-06 01:21:42.822] Menu: Connect to database clicked
+[2025-11-06 01:21:42.822] Database connected: C:\Users\antal\OneDrive\Asztali gép\estigyak\Labor4\bin\Debug\users.db
+[2025-11-06 01:21:46.826] Menu: Add Keyword clicked
+[2025-11-06 01:21:55.785] Saved 10 blocked keywords to file
+[2025-11-06 01:21:55.803] Menu Add Keyword: 'xnxx' added successfully
+[2025-11-06 01:22:02.215] Menu: View Keywords clicked
+[2025-11-06 01:22:02.261] Displaying 10 blocked keywords
+[2025-11-06 01:22:06.958] Menu: Disconnect from database clicked
+[2025-11-06 01:22:06.958] Database disconnected
+[2025-11-06 01:22:13.178] Menu: Add Keyword clicked
+[2025-11-06 01:22:16.567] Saved 11 blocked keywords to file
+[2025-11-06 01:22:16.589] Menu Add Keyword: 'aaaaaaaaaa' added successfully
+[2025-11-06 01:22:21.710] Blocked keyword added: 'aaaaaa'
+[2025-11-06 01:22:21.711] Saved 12 blocked keywords to file
+[2025-11-06 01:22:25.650] Menu: Connect to database clicked
+[2025-11-06 01:22:25.650] Database connected: C:\Users\antal\OneDrive\Asztali gép\estigyak\Labor4\bin\Debug\users.db
+[2025-11-06 01:22:27.753] SQLite Test button clicked
+[2025-11-06 01:22:27.754] Starting SQLite database operations using System.Data.SQLite
+[2025-11-06 01:22:27.754] Database path: C:\Users\antal\OneDrive\Asztali gép\estigyak\Labor4\bin\Debug\users.db
+[2025-11-06 01:22:27.846] Step 1: Creating Users table
+[2025-11-06 01:22:27.846] Executing SQL command: 
+                    CREATE TABLE IF NOT EXISTS Users (
+                        Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                        FirstName TEXT NOT NULL,
+                        LastName TEXT NOT NULL,
+                        CNP TEXT NOT NULL
+                    );
+[2025-11-06 01:22:27.848] Database connection opened: C:\Users\antal\OneDrive\Asztali gép\estigyak\Labor4\bin\Debug\users.db
+[2025-11-06 01:22:27.940] SQL command completed. Rows affected: 0
+[2025-11-06 01:22:27.940] Step 2: Inserting 3 users
+[2025-11-06 01:22:27.940] Executing SQL command: INSERT INTO Users (FirstName, LastName, CNP) VALUES ('John', 'Doe', '1234567890123');
+[2025-11-06 01:22:27.944] SQL command completed. Rows affected: 1
+[2025-11-06 01:22:27.944] Executing SQL command: INSERT INTO Users (FirstName, LastName, CNP) VALUES ('Jane', 'Smith', '9876543210987');
+[2025-11-06 01:22:27.947] SQL command completed. Rows affected: 1
+[2025-11-06 01:22:27.947] Executing SQL command: INSERT INTO Users (FirstName, LastName, CNP) VALUES ('Robert', 'Johnson', '5555555555555');
+[2025-11-06 01:22:27.951] SQL command completed. Rows affected: 1
+[2025-11-06 01:22:27.951] Step 3: Displaying all users
+[2025-11-06 01:22:27.951] Executing SQL query: SELECT Id, FirstName, LastName, CNP FROM Users;
+[2025-11-06 01:22:27.951] SQL query completed successfully
+[2025-11-06 01:22:27.951] Step 4: Deleting all data entries
+[2025-11-06 01:22:27.951] Executing SQL command: DELETE FROM Users;
+[2025-11-06 01:22:27.955] SQL command completed. Rows affected: 3
+[2025-11-06 01:22:27.955] Step 5: Dropping Users table
+[2025-11-06 01:22:27.955] Executing SQL command: DROP TABLE IF EXISTS Users;
+[2025-11-06 01:22:27.993] SQL command completed. Rows affected: 3
+[2025-11-06 01:22:27.993] Database connection closed
+[2025-11-06 01:22:27.993] All SQLite operations completed successfully
+[2025-11-06 01:22:31.149] SQLite operations completed successfully
+[2025-11-06 01:22:31.610] Application closing
+[2025-11-06 01:22:31.610] Database connection closed during shutdown
+[2025-11-06 01:22:31.611] Saved 12 blocked keywords to file
+[2025-11-06 01:22:39.379] Loaded 12 blocked keywords from file
+[2025-11-06 01:22:39.397] Application started
+[2025-11-06 01:22:39.405] Form loaded
+[2025-11-06 01:22:39.425] Starting async navigation to: https://www.bing.com/
+[2025-11-06 01:22:39.461] Attempting navigation to: https://www.bing.com/
+[2025-11-06 01:22:39.758] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:22:39.850] Document completed loading: https://www.bing.com/
+[2025-11-06 01:22:40.626] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-11-06 01:22:40.930] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQsrIjfvtfm-QuAkWSgCfl47fnu7gkYKEfS3UOLxiqDwrucqlwQmHGqQ5zFn68fYHQ5vLf8Rx2Rn1hIE1BWmHxT2cr7TwwjLx5Nl7frDDU9Pi9NsQ2i3604I6rlb8aAOL0CRz3dzf8I4hQVtrTmeMJ-uXhtTd2PH69AORVMACdutsx1qqrwdpGJxXmENG6E6-Q5nXdKUegxV7-2HDIdvBinHbMMboxAP2JOu6YzVYgapSPYlLhMp7QK9ngIZ8AA8QPQpjUj0XxTGqRKJBC6sWZj_2uefy4ep93RkSp777pbspJa69_90J9gYpwfSH4uECcW4IOtjHBR9srtMLpM1GAew4peXWxU-Mg2y8u6q8-p9_KK_EEMoHqMj3SGjU_IOoZUwFfPB2_7NHqifZumlkxX7&response_mode=form_post&nonce=638979817609884426.OTAyMDdmOTctYjE1MS00MWI1LWI4MmItOWM1MzFhN2I3ZDkwY2M3MDk3MTAtYjRlNi00MWFlLWE4ZDYtOGRlMDQyYjY1MjZh&prompt=none&code_challenge=0vwRYtMOJRpNcTEGx-nUVzUJYQK9O6haYnwYex2FhLo&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=1c5230ed3d6e4476a6bb890848285b14&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKPtt5q8YKKf9ZveqDCB6coGfZhXFzn-oo7SWDANYHKX1_BgmxA3eYmBoCbFKQJ4izD78Bb-qqKNhLqL0FQfSH3NDvZpgPxSc_gv0SSDpjP8yHvDABmx25c-D2yxFZn3u_J5HfKj7fsFUd0Iw6V4KXs5XmxQuEdmTLvRDrsbKh5pHVG-9qRDDUjwEAwOicO8sHpdS4ctwyCyegsEJFZ9w6NiAA&jshs=0
+[2025-11-06 01:22:41.166] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:22:41.167] Document completed loading: https://www.bing.com/
+[2025-11-06 01:22:41.168] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-11-06 01:22:41.266] Successfully navigated to: https://www.bing.com/
+[2025-11-06 01:22:41.267] Document completed loading: https://www.bing.com/
+[2025-11-06 01:22:44.351] Menu: About clicked
+[2025-11-06 01:25:20.525] Application closing
+[2025-11-06 01:25:20.528] Saved 12 blocked keywords to file

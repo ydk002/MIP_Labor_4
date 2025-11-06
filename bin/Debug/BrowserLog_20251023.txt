@@ -1,0 +1,672 @@
+[2025-10-23 12:43:19.717] Application started
+[2025-10-23 12:43:19.734] Form loaded
+[2025-10-23 12:43:19.737] Starting async navigation to: https://www.google.com
+[2025-10-23 12:43:19.919] Attempting navigation to: https://www.google.com/
+[2025-10-23 12:43:20.652] Successfully navigated to: https://www.google.com/
+[2025-10-23 12:43:21.317] Document completed loading: https://www.google.com/
+[2025-10-23 12:43:29.540] Attempting navigation to: https://www.google.com/doodles/
+[2025-10-23 12:43:31.250] Successfully navigated to: https://doodles.google/
+[2025-10-23 12:43:36.668] Document completed loading: https://doodles.google/
+[2025-10-23 12:43:52.623] Back button clicked
+[2025-10-23 12:43:52.625] Attempting navigation to: https://www.google.com/
+[2025-10-23 12:43:52.628] Navigated back in history
+[2025-10-23 12:43:52.660] Successfully navigated to: https://www.google.com/
+[2025-10-23 12:43:52.670] Document completed loading: https://www.google.com/
+[2025-10-23 12:43:56.572] Attempting navigation to: https://www.google.ro/intl/en/about/products?tab=wh
+[2025-10-23 12:43:57.369] Successfully navigated to: https://about.google/products/?tab=wh
+[2025-10-23 12:44:07.467] Back button clicked
+[2025-10-23 12:44:07.468] Attempting navigation to: https://www.google.com/
+[2025-10-23 12:44:07.471] Navigated back in history
+[2025-10-23 12:44:07.489] Successfully navigated to: https://www.google.com/
+[2025-10-23 12:44:07.500] Document completed loading: https://www.google.com/
+[2025-10-23 12:44:10.055] Attempting navigation to: http://www.google.ro/history/optout?hl=en
+[2025-10-23 12:44:10.762] Successfully navigated to: https://consent.google.ro/ml?continue=https://www.google.ro/history/optout?hl%3Den&gl=RO&hl=en&cm=2&pc=sc&src=1&escs=AZj2P8imuuvJyzT-VUtf1zXtu8jodX4a0wdF5rzq-oFkFdagYaN_g4TcmiJ0N-mrLjM89tMA9Nvw3N-HKKyDu4lG5Pt8coQFkQy5
+[2025-10-23 12:44:10.946] Document completed loading: https://consent.google.ro/ml?continue=https://www.google.ro/history/optout?hl%3Den&gl=RO&hl=en&cm=2&pc=sc&src=1&escs=AZj2P8imuuvJyzT-VUtf1zXtu8jodX4a0wdF5rzq-oFkFdagYaN_g4TcmiJ0N-mrLjM89tMA9Nvw3N-HKKyDu4lG5Pt8coQFkQy5
+[2025-10-23 12:44:13.113] Attempting navigation to: https://consent.google.ro/save
+[2025-10-23 12:44:13.422] Successfully navigated to: https://www.google.ro/history/optout?hl=en
+[2025-10-23 12:44:14.254] Document completed loading: https://www.google.ro/history/optout?hl=en
+[2025-10-23 12:44:18.736] Home button clicked - Navigating to: https://www.google.com
+[2025-10-23 12:44:18.736] Starting async navigation to: https://www.google.com
+[2025-10-23 12:44:18.741] Attempting navigation to: https://www.google.com/
+[2025-10-23 12:44:19.233] Successfully navigated to: https://consent.google.com/ml?continue=https://www.google.com/&gl=RO&m=0&pc=shp&uxe=none&cm=2&hl=en&src=1
+[2025-10-23 12:44:19.246] Document completed loading: https://consent.google.com/ml?continue=https://www.google.com/&gl=RO&m=0&pc=shp&uxe=none&cm=2&hl=en&src=1
+[2025-10-23 12:44:21.472] Attempting navigation to: https://consent.google.com/save
+[2025-10-23 12:44:21.834] Successfully navigated to: https://www.google.com/
+[2025-10-23 12:44:21.843] Document completed loading: https://www.google.com/
+[2025-10-23 12:44:29.388] Attempting navigation to: https://www.google.com/preferences?hl=en
+[2025-10-23 12:44:29.547] Successfully navigated to: https://www.google.com/preferences?hl=en
+[2025-10-23 12:44:29.646] Document completed loading: https://www.google.com/preferences?hl=en
+[2025-10-23 12:44:39.889] Attempting navigation to: https://www.google.com/setprefs?sig=0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%3D&prev=https%3A%2F%2Fwww.google.com%2F&hl=en&lr=lang_en&gl=ZZ&cs=2
+[2025-10-23 12:44:40.372] Successfully navigated to: https://www.google.com/sorry/index?continue=https://www.google.com/setprefs%3Fsig%3D0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%253D%26prev%3Dhttps%253A%252F%252Fwww.google.com%252F%26hl%3Den%26lr%3Dlang_en%26gl%3DZZ%26cs%3D2&hl=en&q=EgRSToC3GIby58cGIjBYdaKhdA_7bB9Zd10pkALsM44nlSTvo_Kfi3ZjBFB46OCEkz7pWLlNpNE9-K_A3WIyAnJSWgFD
+[2025-10-23 12:44:41.728] Document completed loading: https://www.google.com/sorry/index?continue=https://www.google.com/setprefs%3Fsig%3D0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%253D%26prev%3Dhttps%253A%252F%252Fwww.google.com%252F%26hl%3Den%26lr%3Dlang_en%26gl%3DZZ%26cs%3D2&hl=en&q=EgRSToC3GIby58cGIjBYdaKhdA_7bB9Zd10pkALsM44nlSTvo_Kfi3ZjBFB46OCEkz7pWLlNpNE9-K_A3WIyAnJSWgFD
+[2025-10-23 12:44:53.372] Back button clicked
+[2025-10-23 12:44:53.373] Attempting navigation to: https://www.google.com/preferences?hl=en
+[2025-10-23 12:44:53.375] Navigated back in history
+[2025-10-23 12:44:53.383] Successfully navigated to: https://www.google.com/preferences?hl=en
+[2025-10-23 12:44:53.403] Document completed loading: https://www.google.com/preferences?hl=en
+[2025-10-23 12:44:55.424] Attempting navigation to: https://www.google.com/setprefs?sig=0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%3D&prev=https%3A%2F%2Fwww.google.com%2F&hl=en&lr=lang_en&gl=ZZ&cs=2
+[2025-10-23 12:44:56.096] Successfully navigated to: https://www.google.com/sorry/index?continue=https://www.google.com/setprefs%3Fsig%3D0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%253D%26prev%3Dhttps%253A%252F%252Fwww.google.com%252F%26hl%3Den%26lr%3Dlang_en%26gl%3DZZ%26cs%3D2&hl=en&q=EgRSToC3GJXy58cGIjAcAuCKZHLca3qHPHcn0zNEvS6ZBu7HiIy5GThjzmOgXi1x67qWfDfdCHxi98KsBb8yAnJSWgFD
+[2025-10-23 12:45:00.945] Document completed loading: https://www.google.com/sorry/index?continue=https://www.google.com/setprefs%3Fsig%3D0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%253D%26prev%3Dhttps%253A%252F%252Fwww.google.com%252F%26hl%3Den%26lr%3Dlang_en%26gl%3DZZ%26cs%3D2&hl=en&q=EgRSToC3GJXy58cGIjAcAuCKZHLca3qHPHcn0zNEvS6ZBu7HiIy5GThjzmOgXi1x67qWfDfdCHxi98KsBb8yAnJSWgFD
+[2025-10-23 12:45:04.122] Home button clicked - Navigating to: https://www.google.com
+[2025-10-23 12:45:04.123] Starting async navigation to: https://www.google.com
+[2025-10-23 12:45:04.128] Attempting navigation to: https://www.google.com/
+[2025-10-23 12:45:04.265] Successfully navigated to: https://www.google.com/
+[2025-10-23 12:45:04.275] Document completed loading: https://www.google.com/
+[2025-10-23 12:45:45.948] Attempting navigation to: https://www.google.com/search?hl=en-RO&source=hp&biw=&bih=&q=gambling&iflsig=AOw8s4IAAAAAaPoHLpQCUD8J18cOABCck9hL3mhSFabM&gbv=2&oq=gambling&gs_l=heirloom-hp.3..0i512l10.20383.38848.0.41572.8.8.0.0.0.0.0.0..8.0....0...1.1.34.heirloom-hp..8.0.0.9NVTl8hHKus
+[2025-10-23 12:45:45.949] BLOCKED: Navigation to 'https://www.google.com/search?hl=en-RO&source=hp&biw=&bih=&q=gambling&iflsig=AOw8s4IAAAAAaPoHLpQCUD8J18cOABCck9hL3mhSFabM&gbv=2&oq=gambling&gs_l=heirloom-hp.3..0i512l10.20383.38848.0.41572.8.8.0.0.0.0.0.0..8.0....0...1.1.34.heirloom-hp..8.0.0.9NVTl8hHKus' blocked by keyword: 'gambling'
+[2025-10-23 12:45:53.311] Attempting navigation to: https://www.google.com/imghp?hl=en&tab=wi
+[2025-10-23 12:45:53.512] Successfully navigated to: https://www.google.com/imghp?hl=en&tab=wi
+[2025-10-23 12:45:53.927] Document completed loading: https://www.google.com/imghp?hl=en&tab=wi
+[2025-10-23 12:45:57.048] Attempting navigation to: https://www.google.ro/webhp?tab=iw
+[2025-10-23 12:45:57.404] Successfully navigated to: https://www.google.com/webhp?tab=iw
+[2025-10-23 12:45:57.420] Document completed loading: https://www.google.com/webhp?tab=iw
+[2025-10-23 12:45:58.674] Attempting navigation to: https://maps.google.ro/maps?hl=en&tab=wl
+[2025-10-23 12:45:59.216] Successfully navigated to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 12:46:00.878] Attempting navigation to: https://support.google.com/maps/?hl=en&authuser=0&p=unsupported
+[2025-10-23 12:46:01.478] Successfully navigated to: https://support.google.com/maps/answer/6186115?hl=en&authuser=0&visit_id=638968095595798571-1144194692&p=unsupported&rd=1
+[2025-10-23 12:46:12.861] Document completed loading: https://support.google.com/maps/answer/6186115?hl=en&authuser=0&visit_id=638968095595798571-1144194692&p=unsupported&rd=1
+[2025-10-23 12:46:16.071] Back button clicked
+[2025-10-23 12:46:16.073] Attempting navigation to: https://www.google.com/webhp?tab=iw
+[2025-10-23 12:46:16.076] Navigated back in history
+[2025-10-23 12:46:16.085] Successfully navigated to: https://www.google.com/webhp?tab=iw
+[2025-10-23 12:46:16.134] Document completed loading: https://www.google.com/webhp?tab=iw
+[2025-10-23 12:46:17.656] Attempting navigation to: https://www.youtube.com/?tab=w1
+[2025-10-23 12:46:17.999] Successfully navigated to: https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F%3Ftab%3Dw1
+[2025-10-23 12:46:18.325] Document completed loading: https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F%3Ftab%3Dw1
+[2025-10-23 12:46:26.362] Back button clicked
+[2025-10-23 12:46:26.363] Attempting navigation to: https://www.google.com/webhp?tab=iw
+[2025-10-23 12:46:26.366] Navigated back in history
+[2025-10-23 12:46:26.371] Successfully navigated to: https://www.google.com/webhp?tab=iw
+[2025-10-23 12:46:26.393] Document completed loading: https://www.google.com/webhp?tab=iw
+[2025-10-23 12:47:47.602] Attempting navigation to: https://www.google.com/search?hl=en-RO&source=hp&biw=&bih=&q=dog&iflsig=AOw8s4IAAAAAaPoHY7jCIZo6_LPhK6Ig723XIXa02Clq&gbv=2&oq=dog&gs_l=heirloom-hp.3..0i512l10.67292.77375.0.81120.4.4.0.0.0.0.0.0..4.0....0...1.1.34.heirloom-hp..4.0.0.orxhGz574h0
+[2025-10-23 12:47:48.156] Successfully navigated to: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fhl%3Den-RO%26source%3Dhp%26biw%3D%26bih%3D%26q%3Ddog%26iflsig%3DAOw8s4IAAAAAaPoHY7jCIZo6_LPhK6Ig723XIXa02Clq%26gbv%3D2%26oq%3Ddog%26gs_l%3Dheirloom-hp.3..0i512l10.67292.77375.0.81120.4.4.0.0.0.0.0.0..4.0....0...1.1.34.heirloom-hp..4.0.0.orxhGz574h0&hl=en-RO&q=EgRSToC3GMLz58cGIjDJfhH3PP6j3labgZyDiOAYEUL32_z1QKBFP6aAoxMsDvg2gnlIJZgLKtwGf-P8OEcyAnJSWgFD
+[2025-10-23 12:47:51.697] Document completed loading: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fhl%3Den-RO%26source%3Dhp%26biw%3D%26bih%3D%26q%3Ddog%26iflsig%3DAOw8s4IAAAAAaPoHY7jCIZo6_LPhK6Ig723XIXa02Clq%26gbv%3D2%26oq%3Ddog%26gs_l%3Dheirloom-hp.3..0i512l10.67292.77375.0.81120.4.4.0.0.0.0.0.0..4.0....0...1.1.34.heirloom-hp..4.0.0.orxhGz574h0&hl=en-RO&q=EgRSToC3GMLz58cGIjDJfhH3PP6j3labgZyDiOAYEUL32_z1QKBFP6aAoxMsDvg2gnlIJZgLKtwGf-P8OEcyAnJSWgFD
+[2025-10-23 12:47:56.110] Application closing
+[2025-10-23 12:48:38.629] Application started
+[2025-10-23 12:48:38.636] Form loaded
+[2025-10-23 12:48:38.638] Starting async navigation to: https://www.youtube.com/
+[2025-10-23 12:48:38.682] Attempting navigation to: https://www.youtube.com/
+[2025-10-23 12:48:39.133] Successfully navigated to: https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+[2025-10-23 12:48:39.190] Document completed loading: https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+[2025-10-23 12:48:40.083] Application closing
+[2025-10-23 12:48:50.410] Application started
+[2025-10-23 12:48:50.421] Form loaded
+[2025-10-23 12:48:50.422] Starting async navigation to: https://www.bing.com/
+[2025-10-23 12:48:50.494] Attempting navigation to: https://www.bing.com/
+[2025-10-23 12:48:51.035] Successfully navigated to: https://www.bing.com/
+[2025-10-23 12:48:57.569] Document completed loading: https://www.bing.com/
+[2025-10-23 12:49:04.834] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 12:49:05.547] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQsxO4jzo12xPjnIZH1nllbm4971cob3Sa9Kl3GjMDabJ4190rjC7K7RcqZG0RI9o44jyssx1DC4PZEtcU5YYWvinjUBSik6-tZmri_L0N4tXz6UfnI1ay31be0qsGC9-00zqs69-NQm90sCvMlyniTQGrpIjDZ1B7Kh9kdV03bvxLLJQiXeyzbnf5RvKqO8iY4WVoFOJGio-VBwYqLgV2u_uB_KXBn67hFEDfP7Hcm7_HUa3MtcKmev_-KJCzCkwj9MUzAg8cEccz1TFG0YLveA3KZqK5SSxI2d8l_j7ootI-EiNBA7O6wX4oONdFnn87zjO4O-QxKMY7dvfPkT8tjkk6_pmifus2cD36K-C62TAp8-YD-KGunwfhiHdGeS7lrjnr4DDz82LLsLMX70E-L7&response_mode=form_post&nonce=638968097434463964.MmVmYmMyOGMtZTdmMC00ZTZmLTk0OTktNjNiMDI4MDJmNTI2YmE3NDk4MWYtZTBjNi00ZTUwLWEzYjMtZWVkYzdmNzQyZTg3&prompt=none&code_challenge=racwfO1gqQbO9D6kdC02VIvKPz6iHebCC0K1GA3kRrg&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=1bd708e456d449a892c0a458bc80cc03&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKs-vvrrsI_6ld_JdyvcSAwkZGSC3Q6fcXWx1kMW69EdKeGBugN8kKVMlYs99oxGOl_b6p6Bd_CtDdY7fu12Lak2LyEaMFRKOXEBgk8_WijSyw2ONdthBKVYz8nXs74MHdWn3icoHwI-Ze1kSFP4XeCb02eYSW-DR7vLPwYpKDbmaYovq5x6FHTTD1rWXGdkw2i_7A83qvNT2fmHjm9R_zsyAA&jshs=0
+[2025-10-23 12:49:06.208] Successfully navigated to: https://www.bing.com/
+[2025-10-23 12:49:06.210] Document completed loading: https://www.bing.com/
+[2025-10-23 12:49:06.211] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 12:49:06.340] Successfully navigated to: https://www.bing.com/
+[2025-10-23 12:49:06.342] Document completed loading: https://www.bing.com/
+[2025-10-23 12:49:22.891] Application closing
+[2025-10-23 12:58:55.362] Application started
+[2025-10-23 12:58:55.369] Form loaded
+[2025-10-23 12:58:55.370] Starting async navigation to: https://www.bing.com/
+[2025-10-23 12:58:55.437] Attempting navigation to: https://www.bing.com/
+[2025-10-23 12:58:55.909] Successfully navigated to: https://www.bing.com/
+[2025-10-23 12:58:59.410] Document completed loading: https://www.bing.com/
+[2025-10-23 12:59:53.846] Application started
+[2025-10-23 12:59:53.850] Form loaded
+[2025-10-23 12:59:53.852] Starting async navigation to: https://www.bing.com/
+[2025-10-23 12:59:53.887] Attempting navigation to: https://www.bing.com/
+[2025-10-23 12:59:54.381] Successfully navigated to: https://www.bing.com/
+[2025-10-23 12:59:54.495] Document completed loading: https://www.bing.com/
+[2025-10-23 12:59:56.422] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 12:59:56.992] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQsA6Sm23xR1GZpevVd9FzSmBrkzbqXOKo7HORxjgSnhwPwMxUD9SO0WxybAq2tyHxpSbpWLYgZaDlfaGEe7889kr8lRELvyyh6pMJ4OyBY2ZT_O1KJbRfpRJOs6XZ-zrpYh7U8eRHB42qdUXvzZSzp1d52rHGZtmXByac-SbphHHxTZajc9cS0Su-X2kqU6zm-XvZyjbAgdTKuLtCxenFYUiexgvkf_RJUgDPQOxD19BPz3U2w9peUWCvf2Iq-MM_VFVUKtiVkRUNv1L03pdLurEcR2Fv0n5r5N6kZ5F-0EjfRzpZewsm16iP_ttAQmwGs-F5_mCwAMBNzLzvMwz_NkBjcI5h_t5soDkpe3rNeXTsZLDDB69w8QVIUgDcHY3J_9Jvo0SWnHLcWHABOM6-VQ&response_mode=form_post&nonce=638968103949927520.NzNhYzliMDgtZGFlMi00MjhmLTgxYzUtMDc1ODY1ZDQ4MWI1ZWU3OThkYjktN2JhYS00MzI5LWIzZjUtYzI1NTc2ODM4OWY2&prompt=none&code_challenge=opCzjjifuU4TddU_PgsB8CLpNy-uVyfef51m8gyx2rY&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=6dc1dfe88312406686381bf144ea8785&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKK7T4XI-W8DDLfhRmOaVIXXoR9hHVsAG2z49u3NGkGdH7XLPXHyCAwMvdhNHqK0skLbQg3zYP1jg-OGDuR9MZGKy-JYfqk1sm-50lpyJxMy_zU77_CjdW2XWxuDf-txwe0Gp-ZCwT7FB0elWJxT_nHZIBdxaDji-RUiot-ubRwyWAKou0UhXAfXdrrmU-zuAWMtlZZQl0pl57abZknsRM-yAA&jshs=0
+[2025-10-23 12:59:57.604] Successfully navigated to: https://www.bing.com/
+[2025-10-23 12:59:57.605] Document completed loading: https://www.bing.com/
+[2025-10-23 12:59:57.607] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 12:59:57.738] Successfully navigated to: https://www.bing.com/
+[2025-10-23 12:59:57.739] Document completed loading: https://www.bing.com/
+[2025-10-23 12:59:58.138] Attempting navigation to: https://www.bing.com/search?q=yes&form=QBLH&sp=-1&lq=0&pq=ye&sc=0-2&qs=n&sk=&cvid=75799AB23B2B4CBEAD1CB7239568DFBC
+[2025-10-23 12:59:58.494] Successfully navigated to: https://www.bing.com/search?q=yes&form=QBLH&sp=-1&lq=0&pq=ye&sc=0-2&qs=n&sk=&cvid=75799AB23B2B4CBEAD1CB7239568DFBC
+[2025-10-23 12:59:58.874] Document completed loading: https://www.bing.com/search?q=yes&form=QBLH&sp=-1&lq=0&pq=ye&sc=0-2&qs=n&sk=&cvid=75799AB23B2B4CBEAD1CB7239568DFBC
+[2025-10-23 13:00:03.873] Attempting navigation to: about:blank
+[2025-10-23 13:00:03.875] Document completed loading: https://www.bing.com/search?q=yes&form=QBLH&sp=-1&lq=0&pq=ye&sc=0-2&qs=n&sk=&cvid=75799AB23B2B4CBEAD1CB7239568DFBC
+[2025-10-23 13:00:04.075] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 13:00:04.331] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQv8836lHyg0FJDqOdYfadqfbl8DKUJ-e4Sc_v4DoKuCyYZq48ZJLHqN9lmGEg874ReX-YaWnG7n3jtiPclOV3W8JbJX-aOydzJA0G4WOSqTcJ3l5RZg-7hd2d0XnGX_O4EZGoEOTQc567FESfjwWmM_FbqBEJc2eT0p8Vddog5c8Y9b9C6ZLOJnC563vEVUrpt51WRya7tVruVYSBUGbC05UyBNH4JJnaOPN2mAZXXXxL8asw71jrf7e4zKriqbJCE4bIyhk80BxVMbjZM_b6cpt6_hgxM6g-s-9nvdtdhCcjUJrbmHdyvzxrkzbvvAmimz0icFeB8gfu58R41qptgdPTuhe4Uqj2Ch9C0jRAIu7ZBz5v9j1gPFfw8-TBnJT57tLbIYd0LSMBrviRVo46ev&response_mode=form_post&nonce=638968104026131497.OWI5Y2JjM2EtZDRmOS00YmI5LTlkZDUtYmYzZDc0NzA5ZmIwNjRkYWE0ZjgtYTFkYi00NTBkLTk3ZDAtYzZjZTg3YTE0M2Jh&prompt=none&code_challenge=Om8HXJYh6UjCjj8XLjS8I1ZnqYhu7Ev0_r0Lkn2DvJE&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=435934732a5545f6914955e34cf3d2f0&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKPSbk_1Uql7vV9RNDm_zE8wVgMcp2BpigobJrx_U2mj_Cuf0QbJUL1_aZaTScotNjKliKyy2F9j0N0wH9P_kWixeTlX413laCLymH6-DPbhlEUaN70xS21iE4JmRxGYicI8YW-Jra_FSM9dY_yIvDBgnlGqVFYhzqzP4a8DRgv3mPn08JDTcXlKkM7lBj3TC6ezqGuDITD_RnCxpb009crSAA&jshs=0
+[2025-10-23 13:00:04.654] Successfully navigated to: https://www.bing.com/search?q=yes&form=QBLH&sp=-1&lq=0&pq=ye&sc=0-2&qs=n&sk=&cvid=75799AB23B2B4CBEAD1CB7239568DFBC
+[2025-10-23 13:00:04.656] Document completed loading: https://www.bing.com/search?q=yes&form=QBLH&sp=-1&lq=0&pq=ye&sc=0-2&qs=n&sk=&cvid=75799AB23B2B4CBEAD1CB7239568DFBC
+[2025-10-23 13:00:04.658] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 13:00:04.801] Successfully navigated to: https://www.bing.com/search?q=yes&form=QBLH&sp=-1&lq=0&pq=ye&sc=0-2&qs=n&sk=&cvid=75799AB23B2B4CBEAD1CB7239568DFBC
+[2025-10-23 13:00:04.803] Document completed loading: https://www.bing.com/search?q=yes&form=QBLH&sp=-1&lq=0&pq=ye&sc=0-2&qs=n&sk=&cvid=75799AB23B2B4CBEAD1CB7239568DFBC
+[2025-10-23 13:00:54.438] Application closing
+[2025-10-23 13:00:56.326] Application started
+[2025-10-23 13:00:56.330] Form loaded
+[2025-10-23 13:00:56.331] Starting async navigation to: https://www.bing.com/
+[2025-10-23 13:00:56.394] Attempting navigation to: https://www.bing.com/
+[2025-10-23 13:00:56.915] Successfully navigated to: https://www.bing.com/
+[2025-10-23 13:00:57.035] Document completed loading: https://www.bing.com/
+[2025-10-23 13:00:58.803] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 13:00:59.192] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQuFL-X6syG3UVsqbZrpcI3pDBGLie0c-dQPJ220N2ynJDd71ULr2k58vT3UMNfeWeC9T789ozv-cAU02ABEm45TvcBT0tgOAqsUUZpm_fTCv_nCzt08oMa2ro7tgk_hvPjemJCrFwOCNuFYXkBaCLTaUBYmI-vIDgLzEafU2NL264strCEMwhnEuQUU_Fp7lvhfLPFfC5PD7IWHtw8te3PD3gc9K1rcMCZyz-EDpuHBMbE6Na6UACNaYQ4CAderoPT-YQgExC4JT8cSfjnMXLJzDP4KhS8qMJK5sa_GW1ruzlgzolI7tJQJx9shp6dwm3g5Hl-jNrCKrAAhACUtZjJ8lkQWfwEZ2MMosimZJ_J-YjMntfaTbTCPy59b8PiLh6Pmr0z_MuZyFzjsOu2Q5yI9&response_mode=form_post&nonce=638968104573969899.NmE2ZDkxM2EtNzk3ZS00NzNmLTlhMTQtMWNmNjJkZWZmOTY4MjhjY2Q3YzEtNjg5NS00YTMzLWFkZDItY2EzMDlhMWJjODlh&prompt=none&code_challenge=K6Mvvr76M_pQPURlL2LkJMuswO9u8IlQ5Yj6en0OWf8&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=e7b34426298346d88a9192de8864aef1&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKvny857CJeA18ZBiUgT7zwqLIjJSRquc4GqHcNb4WO7sxepf_JpfuRupSqDzEPa3xoiRQLN3QMKTD01oUgGsEYs7V5VRe2b0MNh8qB9SuhQ2trt5-P5yLDZp7nNs-uyREEBXLK_s-2X3O37XjqZCUgaprafhyBI81QNCGOu_Uz6Og-rXe7alg-08RQNgq9aSM94Fe9aqe1uHYHhihrhax7iAA&jshs=0
+[2025-10-23 13:00:59.652] Successfully navigated to: https://www.bing.com/
+[2025-10-23 13:00:59.653] Document completed loading: https://www.bing.com/
+[2025-10-23 13:00:59.655] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 13:00:59.784] Successfully navigated to: https://www.bing.com/
+[2025-10-23 13:00:59.785] Document completed loading: https://www.bing.com/
+[2025-10-23 13:01:03.215] Application closing
+[2025-10-23 13:01:10.094] Application started
+[2025-10-23 13:01:10.098] Form loaded
+[2025-10-23 13:01:10.100] Starting async navigation to: https://www.bing.com/
+[2025-10-23 13:01:10.141] Attempting navigation to: https://www.bing.com/
+[2025-10-23 13:01:10.623] Successfully navigated to: https://www.bing.com/
+[2025-10-23 13:01:10.793] Document completed loading: https://www.bing.com/
+[2025-10-23 13:01:13.528] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 13:01:14.395] Attempting navigation to: https://www.bing.com/search?q=google&form=QBLH&sp=-1&lq=0&pq=googl&sc=0-5&qs=n&sk=&cvid=99CA5B164F134BEB907A7853E50CE8C1
+[2025-10-23 13:01:14.428] Document completed loading: https://www.bing.com/
+[2025-10-23 13:01:14.745] Successfully navigated to: https://www.bing.com/search?q=google&form=QBLH&sp=-1&lq=0&pq=googl&sc=0-5&qs=n&sk=&cvid=99CA5B164F134BEB907A7853E50CE8C1
+[2025-10-23 13:01:14.996] Document completed loading: https://www.bing.com/search?q=google&form=QBLH&sp=-1&lq=0&pq=googl&sc=0-5&qs=n&sk=&cvid=99CA5B164F134BEB907A7853E50CE8C1
+[2025-10-23 13:01:17.533] Attempting navigation to: about:blank
+[2025-10-23 13:01:17.537] Document completed loading: https://www.bing.com/search?q=google&form=QBLH&sp=-1&lq=0&pq=googl&sc=0-5&qs=n&sk=&cvid=99CA5B164F134BEB907A7853E50CE8C1
+[2025-10-23 13:01:17.940] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 13:01:18.236] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQsZ1bl2zboTQLrn2sNPu6paKXx8kv9MGle3vOD3lsfkgGXjr3R8-cOZIv_63sxJ6--M3ebcjf0N1OEqkQihp588uy84xX3kwYaQCRM18hSummkcszK7j8jJNiHKjVhxfmKfEuGurbYMc0LFYNegmxVgAjfafwwYYxtpzjM0btv1RC2lJvTvhjZHOnA2-SnFFWDofhguqm4Q58xOS7x0FScmCP2bq0qUSKL-ClnKIY-A9CP5IpvvWnWSRn9TuJ28f8tdLXyBiMzGS8RoHNjUyjfrW8gS9LXnpD0lOz1zTL1YfgLe2ckEip4fb6N4ZG8ADDQncm0NSpdlMeggLgMNlCASBmpnGs09sJg_1pK0D9Rz546U-l7cPgQROA5FovxHGVN_m-wNYSnp_UFbrTcBVLGM&response_mode=form_post&nonce=638968104764784682.Y2Q5MTc1NjAtYWNjYy00ZjBjLTkxMTAtYjdlOWRlODQxN2I3MmZmYmExNDgtZTUxYS00NzI1LTg5ZDAtYWI2YThjNzc2OWFm&prompt=none&code_challenge=CR0i3zAegGO11RDbMNrfAUn0Ro_NqypV5cxVxoatOHY&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=986730d1289c4994bc8e1bfd2ca0b15a&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKBt-UyLFrjGpMZ2biXVWeWeI2_s_oWcyfA1UKnnqlw-PMbN4g0-4aw7NkJWeZAllgSByGFDhvq_aSlXxE1Qn4zwdGn7zHG-kU7rCd5xPEaJAQn_XVmmi03PzjzaOWm-MRzoXgUzMpmXFyhg00MdrkUrRyrU3dBP2BC0cZR1-tcu-y3-xkV3je-WdHSM58j8QPG8Dt1HVrLm2fbsMjqgdMiSAA&jshs=0
+[2025-10-23 13:01:18.580] Successfully navigated to: https://www.bing.com/search?q=google&form=QBLH&sp=-1&lq=0&pq=googl&sc=0-5&qs=n&sk=&cvid=99CA5B164F134BEB907A7853E50CE8C1
+[2025-10-23 13:01:18.582] Document completed loading: https://www.bing.com/search?q=google&form=QBLH&sp=-1&lq=0&pq=googl&sc=0-5&qs=n&sk=&cvid=99CA5B164F134BEB907A7853E50CE8C1
+[2025-10-23 13:01:18.584] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 13:01:19.171] Successfully navigated to: https://www.bing.com/search?q=google&form=QBLH&sp=-1&lq=0&pq=googl&sc=0-5&qs=n&sk=&cvid=99CA5B164F134BEB907A7853E50CE8C1
+[2025-10-23 13:01:19.172] Document completed loading: https://www.bing.com/search?q=google&form=QBLH&sp=-1&lq=0&pq=googl&sc=0-5&qs=n&sk=&cvid=99CA5B164F134BEB907A7853E50CE8C1
+[2025-10-23 13:01:23.660] Application closing
+[2025-10-23 13:01:30.811] Application started
+[2025-10-23 13:01:30.816] Form loaded
+[2025-10-23 13:01:30.817] Starting async navigation to: https://www.google.com/
+[2025-10-23 13:01:30.856] Attempting navigation to: https://www.google.com/
+[2025-10-23 13:01:31.293] Successfully navigated to: https://www.google.com/
+[2025-10-23 13:01:31.320] Document completed loading: https://www.google.com/
+[2025-10-23 13:01:37.961] Attempting navigation to: https://www.google.com/search?hl=en-RO&source=hp&biw=&bih=&q=sex&iflsig=AOw8s4IAAAAAaPoLCXOv-eTKqegVJLA2iEQQtZ_SIzau&gbv=2&oq=sex&gs_l=heirloom-hp.3..0i512l10.4391.6331.0.6487.14.8.3.0.0.0.0.0..5.0....0...1.1.34.heirloom-hp..14.0.0.vC7HePK17As
+[2025-10-23 13:01:38.558] Successfully navigated to: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fhl%3Den-RO%26source%3Dhp%26biw%3D%26bih%3D%26q%3Dsex%26iflsig%3DAOw8s4IAAAAAaPoLCXOv-eTKqegVJLA2iEQQtZ_SIzau%26gbv%3D2%26oq%3Dsex%26gs_l%3Dheirloom-hp.3..0i512l10.4391.6331.0.6487.14.8.3.0.0.0.0.0..5.0....0...1.1.34.heirloom-hp..14.0.0.vC7HePK17As&hl=en-RO&q=EgRSToC3GID658cGIjAG6F7EF8Ttkuar55pMzU78X1c4yu1YNoKoVZrGhD70VMBoTTkVkWy6d3lIIv-mfkIyAnJSWgFD
+[2025-10-23 13:01:38.661] Document completed loading: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fhl%3Den-RO%26source%3Dhp%26biw%3D%26bih%3D%26q%3Dsex%26iflsig%3DAOw8s4IAAAAAaPoLCXOv-eTKqegVJLA2iEQQtZ_SIzau%26gbv%3D2%26oq%3Dsex%26gs_l%3Dheirloom-hp.3..0i512l10.4391.6331.0.6487.14.8.3.0.0.0.0.0..5.0....0...1.1.34.heirloom-hp..14.0.0.vC7HePK17As&hl=en-RO&q=EgRSToC3GID658cGIjAG6F7EF8Ttkuar55pMzU78X1c4yu1YNoKoVZrGhD70VMBoTTkVkWy6d3lIIv-mfkIyAnJSWgFD
+[2025-10-23 13:01:46.919] Back button clicked
+[2025-10-23 13:01:46.920] Attempting navigation to: https://www.google.com/
+[2025-10-23 13:01:46.923] Navigated back in history
+[2025-10-23 13:01:46.927] Successfully navigated to: https://www.google.com/
+[2025-10-23 13:01:46.937] Document completed loading: https://www.google.com/
+[2025-10-23 13:01:48.421] Attempting navigation to: https://www.google.com/preferences?hl=en
+[2025-10-23 13:01:48.585] Successfully navigated to: https://www.google.com/preferences?hl=en
+[2025-10-23 13:01:48.593] Document completed loading: https://www.google.com/preferences?hl=en
+[2025-10-23 13:01:51.680] Attempting navigation to: https://www.google.com/setprefs?sig=0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%3D&prev=https%3A%2F%2Fwww.google.com%2F&hl=en&lr=lang_en&gl=ZZ&cs=2
+[2025-10-23 13:01:53.123] Successfully navigated to: https://www.google.com/sorry/index?continue=https://www.google.com/setprefs%3Fsig%3D0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%253D%26prev%3Dhttps%253A%252F%252Fwww.google.com%252F%26hl%3Den%26lr%3Dlang_en%26gl%3DZZ%26cs%3D2&hl=en&q=EgRSToC3GI7658cGIjCOtF8sIl2ek35k00dLY1d99pxe9PeGYwGS6YorBHtY4hoEA32AET8b9B_edIMudHoyAnJSWgFD
+[2025-10-23 13:01:53.127] Document completed loading: https://www.google.com/sorry/index?continue=https://www.google.com/setprefs%3Fsig%3D0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%253D%26prev%3Dhttps%253A%252F%252Fwww.google.com%252F%26hl%3Den%26lr%3Dlang_en%26gl%3DZZ%26cs%3D2&hl=en&q=EgRSToC3GI7658cGIjCOtF8sIl2ek35k00dLY1d99pxe9PeGYwGS6YorBHtY4hoEA32AET8b9B_edIMudHoyAnJSWgFD
+[2025-10-23 13:02:01.636] Back button clicked
+[2025-10-23 13:02:01.637] Attempting navigation to: https://www.google.com/preferences?hl=en
+[2025-10-23 13:02:01.640] Navigated back in history
+[2025-10-23 13:02:01.648] Successfully navigated to: https://www.google.com/preferences?hl=en
+[2025-10-23 13:02:01.660] Document completed loading: https://www.google.com/preferences?hl=en
+[2025-10-23 13:02:05.869] Attempting navigation to: https://www.google.com/setprefs?sig=0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%3D&prev=https%3A%2F%2Fwww.google.com%2F&hl=fil&lr=lang_en&gl=ZZ&cs=2
+[2025-10-23 13:02:06.598] Successfully navigated to: https://www.google.com/sorry/index?continue=https://www.google.com/setprefs%3Fsig%3D0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%253D%26prev%3Dhttps%253A%252F%252Fwww.google.com%252F%26hl%3Dfil%26lr%3Dlang_en%26gl%3DZZ%26cs%3D2&hl=fil&q=EgRSToC3GJz658cGIjBtP1tJbHte9c5vV_hkMlN-MI3z5ORdWRB0geU2ayjGpEJyp0GbBIp7lxeXQKK0iCkyAnJSWgFD
+[2025-10-23 13:02:06.603] Document completed loading: https://www.google.com/sorry/index?continue=https://www.google.com/setprefs%3Fsig%3D0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%253D%26prev%3Dhttps%253A%252F%252Fwww.google.com%252F%26hl%3Dfil%26lr%3Dlang_en%26gl%3DZZ%26cs%3D2&hl=fil&q=EgRSToC3GJz658cGIjBtP1tJbHte9c5vV_hkMlN-MI3z5ORdWRB0geU2ayjGpEJyp0GbBIp7lxeXQKK0iCkyAnJSWgFD
+[2025-10-23 13:02:08.231] Back button clicked
+[2025-10-23 13:02:08.231] Attempting navigation to: https://www.google.com/preferences?hl=en
+[2025-10-23 13:02:08.234] Navigated back in history
+[2025-10-23 13:02:08.244] Successfully navigated to: https://www.google.com/preferences?hl=en
+[2025-10-23 13:02:08.256] Document completed loading: https://www.google.com/preferences?hl=en
+[2025-10-23 13:02:11.933] Attempting navigation to: https://www.google.com/setprefs?sig=0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%3D&prev=https%3A%2F%2Fwww.google.com%2F&hl=en&lr=lang_en&gl=ZZ&cs=2
+[2025-10-23 13:02:12.462] Successfully navigated to: https://www.google.com/sorry/index?continue=https://www.google.com/setprefs%3Fsig%3D0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%253D%26prev%3Dhttps%253A%252F%252Fwww.google.com%252F%26hl%3Den%26lr%3Dlang_en%26gl%3DZZ%26cs%3D2&hl=en&q=EgRSToC3GKL658cGIjCoD6HBBBQRwRmqZr7p_j5nuz_5CybDr-ExuyPb5ICoBh4x6_HyDHx0zFTzFL-Du_gyAnJSWgFD
+[2025-10-23 13:02:12.467] Document completed loading: https://www.google.com/sorry/index?continue=https://www.google.com/setprefs%3Fsig%3D0_9C8ZmjAWzF_o21YHKO6R5Dnj7Wk%253D%26prev%3Dhttps%253A%252F%252Fwww.google.com%252F%26hl%3Den%26lr%3Dlang_en%26gl%3DZZ%26cs%3D2&hl=en&q=EgRSToC3GKL658cGIjCoD6HBBBQRwRmqZr7p_j5nuz_5CybDr-ExuyPb5ICoBh4x6_HyDHx0zFTzFL-Du_gyAnJSWgFD
+[2025-10-23 13:02:25.274] Enter key pressed in URL textbox - Navigating to: google
+[2025-10-23 13:02:25.275] Protocol added: 'google' -> 'https://google'
+[2025-10-23 13:02:25.275] Starting async navigation to: https://google
+[2025-10-23 13:02:25.278] Attempting navigation to: https://google/
+[2025-10-23 13:02:27.579] Successfully navigated to: https://google/
+[2025-10-23 13:02:27.602] Document completed loading: https://google/
+[2025-10-23 13:03:12.621] Enter key pressed in URL textbox - Navigating to: https://google/
+[2025-10-23 13:03:12.622] Starting async navigation to: https://google/
+[2025-10-23 13:03:12.625] Attempting navigation to: https://google/
+[2025-10-23 13:03:17.178] Successfully navigated to: https://google/
+[2025-10-23 13:03:17.185] Document completed loading: https://google/
+[2025-10-23 13:03:17.656] Enter key pressed in URL textbox - Navigating to: omhttps://google/
+[2025-10-23 13:03:17.656] Protocol added: 'omhttps://google/' -> 'https://omhttps://google/'
+[2025-10-23 13:03:17.657] Starting async navigation to: https://omhttps://google/
+[2025-10-23 13:03:17.658] Attempting navigation to: https://omhttps//google/
+[2025-10-23 13:03:19.950] Successfully navigated to: https://omhttps//google/
+[2025-10-23 13:03:19.957] Document completed loading: https://omhttps//google/
+[2025-10-23 13:03:29.728] Enter key pressed in URL textbox - Navigating to: https://google.com
+[2025-10-23 13:03:29.728] Starting async navigation to: https://google.com
+[2025-10-23 13:03:29.730] Attempting navigation to: https://google.com/
+[2025-10-23 13:03:30.333] Successfully navigated to: https://www.google.com/
+[2025-10-23 13:03:30.341] Document completed loading: https://www.google.com/
+[2025-10-23 13:03:33.140] Attempting navigation to: https://www.youtube.com/?tab=w1
+[2025-10-23 13:03:33.889] Successfully navigated to: https://m.youtube.com/?tab=w1
+[2025-10-23 13:03:34.681] Attempting navigation to: https://accounts.google.com/ServiceLogin?ltmpl=mobile&service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&hl=en
+[2025-10-23 13:03:35.354] Attempting navigation to: about:blank
+[2025-10-23 13:03:35.356] Attempting navigation to: res://ieframe.dll/forbidframing.htm#https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fm.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dmobile_passive%26noapp%3D1&dsh=S238632218%3A1761213813559154&hl=en&ifkv=AfYwgwX-EF16DVSklXqB1_piXkS-2ps5XBXI4ZY_BMXjzWoCDE2Un4x0FjHKStijAN7E3tEvTqxrqQ&ltmpl=mobile&passive=true&service=youtube&uilel=3&flowName=WebLiteSignIn&flowEntry=ServiceLogin
+[2025-10-23 13:03:35.371] Successfully navigated to: https://m.youtube.com/?tab=w1
+[2025-10-23 13:03:35.388] Document completed loading: https://m.youtube.com/?tab=w1
+[2025-10-23 13:03:35.390] Document completed loading: https://m.youtube.com/?tab=w1
+[2025-10-23 13:03:41.556] Back button clicked
+[2025-10-23 13:03:41.557] Attempting navigation to: https://www.google.com/
+[2025-10-23 13:03:41.559] Navigated back in history
+[2025-10-23 13:03:41.574] Successfully navigated to: https://www.google.com/
+[2025-10-23 13:03:41.587] Document completed loading: https://www.google.com/
+[2025-10-23 13:03:44.941] Attempting navigation to: https://maps.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:45.499] Successfully navigated to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:45.773] Document completed loading: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:45.958] Attempting navigation to: https://support.google.com/maps/?hl=en&authuser=0&p=unsupported
+[2025-10-23 13:03:46.555] Successfully navigated to: https://support.google.com/maps/answer/6186115?hl=en&authuser=0&visit_id=638968106246951840-3418629121&p=unsupported&rd=1
+[2025-10-23 13:03:46.982] Document completed loading: https://support.google.com/maps/answer/6186115?hl=en&authuser=0&visit_id=638968106246951840-3418629121&p=unsupported&rd=1
+[2025-10-23 13:03:50.246] Back button clicked
+[2025-10-23 13:03:50.247] Attempting navigation to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:50.250] Navigated back in history
+[2025-10-23 13:03:50.265] Successfully navigated to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:50.510] Document completed loading: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:50.702] Attempting navigation to: https://support.google.com/maps/?hl=en&authuser=0&p=unsupported
+[2025-10-23 13:03:51.667] Successfully navigated to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:51.711] Successfully navigated to: https://support.google.com/maps/answer/6186115?hl=en&authuser=0&visit_id=638968106292236822-1934516833&p=unsupported&rd=1
+[2025-10-23 13:03:52.001] Document completed loading: https://support.google.com/maps/answer/6186115?hl=en&authuser=0&visit_id=638968106292236822-1934516833&p=unsupported&rd=1
+[2025-10-23 13:03:53.145] Back button clicked
+[2025-10-23 13:03:53.147] Attempting navigation to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:53.149] Navigated back in history
+[2025-10-23 13:03:53.158] Successfully navigated to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:53.447] Document completed loading: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:53.643] Attempting navigation to: https://support.google.com/maps/?hl=en&authuser=0&p=unsupported
+[2025-10-23 13:03:53.893] Successfully navigated to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:54.141] Successfully navigated to: https://support.google.com/maps/answer/6186115?hl=en&authuser=0&visit_id=638968106321630045-2447415274&p=unsupported&rd=1
+[2025-10-23 13:03:54.529] Document completed loading: https://support.google.com/maps/answer/6186115?hl=en&authuser=0&visit_id=638968106321630045-2447415274&p=unsupported&rd=1
+[2025-10-23 13:03:55.243] Back button clicked
+[2025-10-23 13:03:55.244] Attempting navigation to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:55.246] Navigated back in history
+[2025-10-23 13:03:55.254] Successfully navigated to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:55.596] Document completed loading: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:55.790] Attempting navigation to: https://support.google.com/maps/?hl=en&authuser=0&p=unsupported
+[2025-10-23 13:03:56.042] Successfully navigated to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:56.162] Successfully navigated to: https://support.google.com/maps/answer/6186115?hl=en&authuser=0&visit_id=638968106343146671-3824330475&p=unsupported&rd=1
+[2025-10-23 13:03:56.520] Document completed loading: https://support.google.com/maps/answer/6186115?hl=en&authuser=0&visit_id=638968106343146671-3824330475&p=unsupported&rd=1
+[2025-10-23 13:03:57.243] Back button clicked
+[2025-10-23 13:03:57.244] Attempting navigation to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:57.246] Navigated back in history
+[2025-10-23 13:03:57.253] Successfully navigated to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:57.621] Document completed loading: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:57.633] Back button clicked
+[2025-10-23 13:03:57.635] Attempting navigation to: https://www.google.com/
+[2025-10-23 13:03:57.638] Navigated back in history
+[2025-10-23 13:03:57.643] Successfully navigated to: https://www.google.com/
+[2025-10-23 13:03:57.813] Document completed loading: https://www.google.com/
+[2025-10-23 13:03:59.558] Attempting navigation to: https://maps.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:03:59.939] Successfully navigated to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:04:00.320] Document completed loading: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:04:00.779] Successfully navigated to: https://www.google.ro/maps?hl=en&tab=wl
+[2025-10-23 13:04:00.814] Attempting navigation to: https://support.google.com/maps/?hl=en&authuser=0&p=unsupported
+[2025-10-23 13:04:01.169] Successfully navigated to: https://support.google.com/maps/answer/6186115?hl=en&authuser=0&visit_id=638968106393327795-3059561606&p=unsupported&rd=1
+[2025-10-23 13:04:01.634] Document completed loading: https://support.google.com/maps/answer/6186115?hl=en&authuser=0&visit_id=638968106393327795-3059561606&p=unsupported&rd=1
+[2025-10-23 13:04:08.211] Home button clicked - Navigating to: https://www.google.com/
+[2025-10-23 13:04:08.212] Starting async navigation to: https://www.google.com/
+[2025-10-23 13:04:08.217] Attempting navigation to: https://www.google.com/
+[2025-10-23 13:04:08.416] Successfully navigated to: https://www.google.com/
+[2025-10-23 13:04:08.624] Document completed loading: https://www.google.com/
+[2025-10-23 13:04:11.787] Attempting navigation to: https://play.google.com/?hl=en&tab=w8
+[2025-10-23 13:04:12.312] Successfully navigated to: https://play.google.com/store/games?device=windows&hl=en&tab=w8
+[2025-10-23 13:04:13.952] Document completed loading: https://play.google.com/store/games?device=windows&hl=en&tab=w8
+[2025-10-23 13:04:14.013] Successfully navigated to: https://play.google.com/store/games?device=windows&hl=en&tab=w8
+[2025-10-23 13:04:14.389] Attempting navigation to: https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LcA2tEZAAAAAJj7FTYTF9cZ4NL3ShgBCBfkWov0&co=aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb206NDQz&hl=en&v=KmpMK968ITgSdSG_2lbUmd1o&size=invisible&anchor-ms=20000&execute-ms=15000&cb=7dc37md3e2dp
+[2025-10-23 13:04:14.631] Successfully navigated to: https://play.google.com/store/games?device=windows&hl=en&tab=w8
+[2025-10-23 13:04:15.249] Document completed loading: https://play.google.com/store/games?device=windows&hl=en&tab=w8
+[2025-10-23 13:04:34.426] Attempting navigation to: https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LcA2tEZAAAAAJj7FTYTF9cZ4NL3ShgBCBfkWov0&co=aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb206NDQz&hl=en&v=KmpMK968ITgSdSG_2lbUmd1o&size=invisible&anchor-ms=20000&execute-ms=15000&cb=rvs0lpk70h5q
+[2025-10-23 13:04:34.688] Successfully navigated to: https://play.google.com/store/games?device=windows&hl=en&tab=w8
+[2025-10-23 13:04:34.689] Document completed loading: https://play.google.com/store/games?device=windows&hl=en&tab=w8
+[2025-10-23 13:15:11.517] Successfully navigated to: https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&pcampaignid=merch_published_cluster_promotion_battlestar_featured_games&hl=en
+[2025-10-23 13:15:17.462] Successfully navigated to: https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&pcampaignid=merch_published_cluster_promotion_battlestar_featured_games&hl=en
+[2025-10-23 13:15:19.774] Attempting navigation to: https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&pcampaignid=merch_published_cluster_promotion_battlestar_featured_games&hl=en
+[2025-10-23 13:15:19.777] Successfully navigated to: https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&pcampaignid=merch_published_cluster_promotion_battlestar_featured_games&hl=en
+[2025-10-23 13:15:19.777] Document completed loading: https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&pcampaignid=merch_published_cluster_promotion_battlestar_featured_games&hl=en
+[2025-10-23 13:15:20.123] Attempting navigation to: https://accounts.google.com/ServiceLogin?service=googleplay&passive=86400&continue=https%3A%2F%2Fplay.google.com%2Fweb%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.miHoYo.GenshinImpact%26pcampaignid%3Dmerch_published_cluster_promotion_battlestar_featured_games%26hl%3Den%26raii%3Dcom.miHoYo.GenshinImpact
+[2025-10-23 13:15:20.736] Successfully navigated to: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fplay.google.com%2Fweb%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.miHoYo.GenshinImpact%26pcampaignid%3Dmerch_published_cluster_promotion_battlestar_featured_games%26hl%3Den%26raii%3Dcom.miHoYo.GenshinImpact&dsh=S1463444005%3A1761214518824445&ifkv=AfYwgwUWH4YYAw81xgZ2Je4w4RFMCKTlE6lbzLLcrDoUbyDecSk5rIu1KP83MvEC1mbgV3pnDzN14A&passive=86400&service=googleplay&flowName=WebLiteSignIn&flowEntry=ServiceLogin
+[2025-10-23 13:15:21.152] Attempting navigation to: https://accounts.google.com/_/bscframe
+[2025-10-23 13:15:21.246] Successfully navigated to: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fplay.google.com%2Fweb%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.miHoYo.GenshinImpact%26pcampaignid%3Dmerch_published_cluster_promotion_battlestar_featured_games%26hl%3Den%26raii%3Dcom.miHoYo.GenshinImpact&dsh=S1463444005%3A1761214518824445&ifkv=AfYwgwUWH4YYAw81xgZ2Je4w4RFMCKTlE6lbzLLcrDoUbyDecSk5rIu1KP83MvEC1mbgV3pnDzN14A&passive=86400&service=googleplay&flowName=WebLiteSignIn&flowEntry=ServiceLogin
+[2025-10-23 13:15:21.247] Document completed loading: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fplay.google.com%2Fweb%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.miHoYo.GenshinImpact%26pcampaignid%3Dmerch_published_cluster_promotion_battlestar_featured_games%26hl%3Den%26raii%3Dcom.miHoYo.GenshinImpact&dsh=S1463444005%3A1761214518824445&ifkv=AfYwgwUWH4YYAw81xgZ2Je4w4RFMCKTlE6lbzLLcrDoUbyDecSk5rIu1KP83MvEC1mbgV3pnDzN14A&passive=86400&service=googleplay&flowName=WebLiteSignIn&flowEntry=ServiceLogin
+[2025-10-23 13:15:21.275] Document completed loading: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fplay.google.com%2Fweb%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.miHoYo.GenshinImpact%26pcampaignid%3Dmerch_published_cluster_promotion_battlestar_featured_games%26hl%3Den%26raii%3Dcom.miHoYo.GenshinImpact&dsh=S1463444005%3A1761214518824445&ifkv=AfYwgwUWH4YYAw81xgZ2Je4w4RFMCKTlE6lbzLLcrDoUbyDecSk5rIu1KP83MvEC1mbgV3pnDzN14A&passive=86400&service=googleplay&flowName=WebLiteSignIn&flowEntry=ServiceLogin
+[2025-10-23 13:15:26.056] Back button clicked
+[2025-10-23 13:15:26.056] Attempting navigation to: https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&pcampaignid=merch_published_cluster_promotion_battlestar_featured_games&hl=en
+[2025-10-23 13:15:26.058] Navigated back in history
+[2025-10-23 13:15:26.219] Successfully navigated to: https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&pcampaignid=merch_published_cluster_promotion_battlestar_featured_games&hl=en
+[2025-10-23 13:15:26.833] Document completed loading: https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&pcampaignid=merch_published_cluster_promotion_battlestar_featured_games&hl=en
+[2025-10-23 13:15:28.263] Attempting navigation to: https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LcA2tEZAAAAAJj7FTYTF9cZ4NL3ShgBCBfkWov0&co=aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb206NDQz&hl=en&v=KmpMK968ITgSdSG_2lbUmd1o&size=invisible&anchor-ms=20000&execute-ms=15000&cb=efgrosvp8ius
+[2025-10-23 13:15:28.832] Successfully navigated to: https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&pcampaignid=merch_published_cluster_promotion_battlestar_featured_games&hl=en
+[2025-10-23 13:15:28.833] Document completed loading: https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&pcampaignid=merch_published_cluster_promotion_battlestar_featured_games&hl=en
+[2025-10-23 13:15:32.244] Successfully navigated to: https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=en
+[2025-10-23 13:15:48.298] Attempting navigation to: https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LcA2tEZAAAAAJj7FTYTF9cZ4NL3ShgBCBfkWov0&co=aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb206NDQz&hl=en&v=KmpMK968ITgSdSG_2lbUmd1o&size=invisible&anchor-ms=20000&execute-ms=15000&cb=sar65k3unm4w
+[2025-10-23 13:15:48.543] Successfully navigated to: https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=en
+[2025-10-23 13:15:48.545] Document completed loading: https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=en
+[2025-10-23 13:16:05.374] Application closing
+[2025-10-23 13:28:28.773] Application started
+[2025-10-23 13:28:28.778] Form loaded
+[2025-10-23 13:28:28.779] Starting async navigation to: https://www.google.com/
+[2025-10-23 13:28:28.812] Attempting navigation to: https://www.google.com/
+[2025-10-23 13:28:29.455] Successfully navigated to: https://www.google.com/
+[2025-10-23 13:28:29.477] Document completed loading: https://www.google.com/
+[2025-10-23 13:28:35.008] Attempting navigation to: https://www.google.com/search?hl=en-RO&source=hp&biw=&bih=&q=games&iflsig=AOw8s4IAAAAAaPoRW0LZGQ2KgpGeEl37DaR9X_TIYyTQ&gbv=2&oq=games&gs_l=heirloom-hp.3..0i512l10.4774.5299.0.5380.5.5.0.0.0.0.0.0..2.0....0...1.1.34.heirloom-hp..5.0.0.56-V35BN6jw
+[2025-10-23 13:28:35.491] Successfully navigated to: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fhl%3Den-RO%26source%3Dhp%26biw%3D%26bih%3D%26q%3Dgames%26iflsig%3DAOw8s4IAAAAAaPoRW0LZGQ2KgpGeEl37DaR9X_TIYyTQ%26gbv%3D2%26oq%3Dgames%26gs_l%3Dheirloom-hp.3..0i512l10.4774.5299.0.5380.5.5.0.0.0.0.0.0..2.0....0...1.1.34.heirloom-hp..5.0.0.56-V35BN6jw&hl=en-RO&q=EgRSToC3GNGG6McGIjACkQ1KvRuKQqdVLHSzVdr914qxLtgN7UrM-3FRbREyU5rdXQJlV4_lSN9g-8sF0AYyAnJSWgFD
+[2025-10-23 13:28:35.570] Document completed loading: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fhl%3Den-RO%26source%3Dhp%26biw%3D%26bih%3D%26q%3Dgames%26iflsig%3DAOw8s4IAAAAAaPoRW0LZGQ2KgpGeEl37DaR9X_TIYyTQ%26gbv%3D2%26oq%3Dgames%26gs_l%3Dheirloom-hp.3..0i512l10.4774.5299.0.5380.5.5.0.0.0.0.0.0..2.0....0...1.1.34.heirloom-hp..5.0.0.56-V35BN6jw&hl=en-RO&q=EgRSToC3GNGG6McGIjACkQ1KvRuKQqdVLHSzVdr914qxLtgN7UrM-3FRbREyU5rdXQJlV4_lSN9g-8sF0AYyAnJSWgFD
+[2025-10-23 13:28:37.561] Back button clicked
+[2025-10-23 13:28:37.562] Attempting navigation to: https://www.google.com/
+[2025-10-23 13:28:37.564] Navigated back in history
+[2025-10-23 13:28:37.572] Successfully navigated to: https://www.google.com/
+[2025-10-23 13:28:37.581] Document completed loading: https://www.google.com/
+[2025-10-23 13:28:39.940] Application closing
+[2025-10-23 13:28:48.848] Application started
+[2025-10-23 13:28:48.852] Form loaded
+[2025-10-23 13:28:48.854] Starting async navigation to: https://www.bing.com/
+[2025-10-23 13:28:48.882] Attempting navigation to: https://www.bing.com/
+[2025-10-23 13:28:49.324] Successfully navigated to: https://www.bing.com/
+[2025-10-23 13:28:49.464] Document completed loading: https://www.bing.com/
+[2025-10-23 13:28:51.957] Attempting navigation to: https://www.bing.com/search?q=games&form=QBLH&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B
+[2025-10-23 13:28:52.299] Successfully navigated to: https://www.bing.com/search?q=games&form=QBLH&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B
+[2025-10-23 13:28:52.649] Document completed loading: https://www.bing.com/search?q=games&form=QBLH&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B
+[2025-10-23 13:28:55.453] Attempting navigation to: about:blank
+[2025-10-23 13:28:55.456] Document completed loading: https://www.bing.com/search?q=games&form=QBLH&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B
+[2025-10-23 13:28:55.901] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 13:28:56.393] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQs9uk2feoRIH8tCVU-KpOotsJgeFp0JwUuEIK_j-Qu_SeXXJNl_XmIswmYhyfsutN36AZMS9NtzTT80rjhBovuTuAkn-C-YGC8UE0BfVSaHZcMtfNMTYpQwadju8-qHc-vUMJE04akI1kL5kRcI6r7n7rpvr1oD3DPa943Xzc2j0DNkexaVNSZoGc0-dq2i6X7DLyzGyZ0NoHTTzNobwYHgES94vSkJnH84DtNuW8LNDtLQpFpwg9dYdhaBflfsSbUxyadcsqEEgxl2Yls-139fxXrjzcTV7XeqB8-HZq7YVp_oraS62xRFlk8PRhNvUfK0zBYAvNuspwBVDNhanNr8pn6leOPkwqSPIxHO7nOyg4HGcR_hq1xMAGvtS9qQ1XaOvAI-2yzR_YGRHGlVSbJP&response_mode=form_post&nonce=638968121344562111.YWRiNTA5YTEtYzc1MC00MjdjLTg0NTgtNWQ1ZWE0ODU3ZmNmYTA3NWMwOTAtOTUwOC00YjkzLTg3YjYtNzZiY2FhNmVkYjVj&prompt=none&code_challenge=1-qHo7tIoWs1GUmBKeXnhpHs2oi9d6l3ukurx8oQ-yg&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=947938886cd94b5a9ac3887a02efb6eb&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKz38Hqzn_PpJW-UBcvyD2F_Epijxs_P-uQ-QuXXnvcTd1c-COk7ymxI_HADJ0-sNS3MIw3-L33fsSeBpYbDoREua9vkExEJrw8s_iBc4WB6bax4aOn3vTwSENlaBUbg9tGZWaoEB5J1w0tucDmt7bZoImJWUfllNPe3vIwanKOCwcOCZZod_PVwGGBMSG7F_YwtbSHyPMCny4O3sRQKfVFyAA&jshs=0
+[2025-10-23 13:28:56.958] Successfully navigated to: https://www.bing.com/search?q=games&form=QBLH&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B
+[2025-10-23 13:28:56.960] Document completed loading: https://www.bing.com/search?q=games&form=QBLH&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B
+[2025-10-23 13:28:56.961] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 13:28:57.117] Successfully navigated to: https://www.bing.com/search?q=games&form=QBLH&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B
+[2025-10-23 13:28:57.118] Document completed loading: https://www.bing.com/search?q=games&form=QBLH&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B
+[2025-10-23 13:29:51.888] Attempting navigation to: https://www.bing.com/search?q=games&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B&FPIG=ABC466CBDB724A32A025A0E775B7473D&first=13&FORM=PERE1
+[2025-10-23 13:29:52.105] Successfully navigated to: https://www.bing.com/search?q=games&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B&FPIG=ABC466CBDB724A32A025A0E775B7473D&first=13&FORM=PERE1
+[2025-10-23 13:29:52.277] Document completed loading: https://www.bing.com/search?q=games&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B&FPIG=ABC466CBDB724A32A025A0E775B7473D&first=13&FORM=PERE1
+[2025-10-23 13:29:54.273] Attempting navigation to: about:blank
+[2025-10-23 13:29:54.276] Document completed loading: https://www.bing.com/search?q=games&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B&FPIG=ABC466CBDB724A32A025A0E775B7473D&first=13&FORM=PERE1
+[2025-10-23 13:29:54.858] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 13:29:55.120] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQuDNnwokXoCerI_3kl_UAOHep57JergSBURYHJ5PMyVWfXfuE0RMLL7pI4MCty80VIarRBNF6JzcBfRR26NgMVC-QhgKivDqPMjdq2z-7ju9PxAms7Ns0cpVmBAVOhImmAICmmM3vcJ8GK2u4cbr5mZ-dwMQkdminF6PCHT65ugFB4ISbk2OWE4dY7XCy8cNK3NCMNHKDN2Jz-kqUibPfRrxeHHUg5Izodtw35G6ULxMza2n0OweDn_K058F7Yj56-iLiT9AIaOKubZW2QTyJz7fogXjCCPvizT35J-P0fTXf0tlLVPZTFs43iTWvbToZLR-r7m3-aeUerrXz0PPIo1GMcXh3g9x6gqIr6RUPv4DRpUx-hUg8MfTUkUIz5w73AEWQvbwfasRmGbjQISWM0R&response_mode=form_post&nonce=638968121934183114.MTIzM2E1NmYtMTRiZi00NjU5LWJhNTMtY2Q4MGI3ZjE5ZmYzMWRjYmVhNDUtMmI4OS00OTNhLTkwMGMtZTdhZGI3OWQ3OTlm&prompt=none&code_challenge=4UJDdfaXsYhtc6nCOMZ5dsBlsJZcwIEKnedC7d4tZg0&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=fa9127eb19814e9e85b39a4e0cea5d9e&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKT2_-gzTEhJ_dY7AJEJUB1GZEJJgt_-9ZdGNQWAYAdZkHCgEolLSBvuJNeJQidZ8dEkyS-k7czqFOzjEINosyy0q-_WS9LhY0xx-Q-exLXG0qebXDDlf82ROSs8lFKv6D6WGi2hhkED5NuzMZ3IXoogC-H210Tmx1DmqPATdmpxqngTnrkdQGxmzL0eCQeL6gikQgYGYbXpZnFSQ-3v5ouSAA&jshs=0
+[2025-10-23 13:29:55.484] Successfully navigated to: https://www.bing.com/search?q=games&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B&FPIG=ABC466CBDB724A32A025A0E775B7473D&first=13&FORM=PERE1
+[2025-10-23 13:29:55.487] Document completed loading: https://www.bing.com/search?q=games&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B&FPIG=ABC466CBDB724A32A025A0E775B7473D&first=13&FORM=PERE1
+[2025-10-23 13:29:55.488] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 13:29:55.628] Successfully navigated to: https://www.bing.com/search?q=games&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B&FPIG=ABC466CBDB724A32A025A0E775B7473D&first=13&FORM=PERE1
+[2025-10-23 13:29:55.629] Document completed loading: https://www.bing.com/search?q=games&sp=-1&lq=0&pq=gam&sc=0-3&qs=n&sk=&cvid=5CAB6D2E2DA14F1F970C5F62FC083D9B&FPIG=ABC466CBDB724A32A025A0E775B7473D&first=13&FORM=PERE1
+[2025-10-23 13:29:57.649] Attempting navigation to: https://www.bing.com/search?q=play+free+games+online&go=Search&qs=ds&form=QBRE
+[2025-10-23 13:29:57.878] Successfully navigated to: https://www.bing.com/search?q=play+free+games+online&go=Search&qs=ds&form=QBRE
+[2025-10-23 13:29:58.183] Document completed loading: https://www.bing.com/search?q=play+free+games+online&go=Search&qs=ds&form=QBRE
+[2025-10-23 13:30:03.431] Attempting navigation to: about:blank
+[2025-10-23 13:30:03.442] Document completed loading: https://www.bing.com/search?q=play+free+games+online&go=Search&qs=ds&form=QBRE
+[2025-10-23 13:30:03.809] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 13:30:04.036] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQt38rtQ7La5Z_kIEC7wxZWh8h_Hyiiisx6tD2hbgvPV_pkE7PnGpuNGgp-EoojphfnXmHwjRoItciDMou1KtS4Qt7Y4bWzom5DXiYLqWyUVu58pdreVxlGDSXoAEXz9XbaYLloqYoQ-IgiW3z1evdi8g4icOddifQJiUBSeys7UWZGX0FRVsNfWav4i5goZpX0czAxNObjQ3_P4fCubLafpiR_wiM0dpm30UJL2PifFft_uvolhkUXm2rzONbqvMVw67TOwlKftxUQRy1TcOt4jToMhGpWtnh9Bw60tb-5cvCbl2-GcAP54rrvljxJKrk4R51OgRxEkawZpj7E9zzjOO4mo_wOnS9r3YELmN6JCgtby-lmn81rKn3rQDCOV3bqX9yB5k_YzCGE_kJoqFU2n&response_mode=form_post&nonce=638968122023657384.MmYxMDZmYjAtNGZlMy00MDMwLWJiZWMtYWIyZGY4YWU5MDUwZmUwNTMxYWYtNDE1NS00NDQ2LTgxYzAtOWQzZDAxYjQ3YmJj&prompt=none&code_challenge=-f52OhRsgi9TD5UepEvGyYFjjcCp_32YEbbT9VjwgB4&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=5aa595d49c9a4b8bbf5cb5838a1ecfe4&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKdQ8WghX4g6KBE-rUBFVX-gDDvSBkODqijFwBQhChCiBZxKE-S_4jX41pwgZhHQIQ1QTCC8gIgdVGXJB6moP0s4uCmWRlnC6vh2lNDJ5tEqZYxpiVr731pm7c4m4E2UO9-SqqwzdHKGXl9RDJ3yR_nTxDAf2CUE76tcBDgJIl0GgbO-7YTUPTOTRgW-rLt-JFUGcfH4DCIZptxnQz_nx_1SAA&jshs=0
+[2025-10-23 13:30:04.394] Successfully navigated to: https://www.bing.com/search?q=play+free+games+online&go=Search&qs=ds&form=QBRE
+[2025-10-23 13:30:04.396] Document completed loading: https://www.bing.com/search?q=play+free+games+online&go=Search&qs=ds&form=QBRE
+[2025-10-23 13:30:04.398] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 13:30:04.418] Attempting navigation to: https://www.crazygames.com/
+[2025-10-23 13:30:04.589] Successfully navigated to: https://www.bing.com/search?q=play+free+games+online&go=Search&qs=ds&form=QBRE
+[2025-10-23 13:30:04.590] Document completed loading: https://www.bing.com/search?q=play+free+games+online&go=Search&qs=ds&form=QBRE
+[2025-10-23 13:30:04.794] Successfully navigated to: https://www.crazygames.com/
+[2025-10-23 13:30:11.405] Application closing
+[2025-10-23 13:57:49.636] Application started
+[2025-10-23 13:57:49.646] Form loaded
+[2025-10-23 13:57:49.648] Starting async navigation to: https://www.bing.com/
+[2025-10-23 13:57:49.682] Attempting navigation to: https://www.bing.com/
+[2025-10-23 13:57:50.102] Successfully navigated to: https://www.bing.com/
+[2025-10-23 13:57:50.171] Document completed loading: https://www.bing.com/
+[2025-10-23 13:57:50.998] Application closing
+[2025-10-23 14:02:46.642] Application started
+[2025-10-23 14:02:46.650] Form loaded
+[2025-10-23 14:02:46.658] Starting async navigation to: https://www.bing.com/
+[2025-10-23 14:02:46.718] Attempting navigation to: https://www.bing.com/
+[2025-10-23 14:02:47.211] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:02:47.349] Document completed loading: https://www.bing.com/
+[2025-10-23 14:02:48.907] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:02:49.625] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQvZ_lq67ne3ddZps-W4fJfcDf3bZJT2XiQucDrcWHYrF4b-3VyU7ZUEvRHrYV7VZ4qSB0AJk187D3UAQmkAuOTfsiqwcAwY8dE6QPThNcBRa9OAL_UISuTPvGJ5RPSiyPGVftVsNXVu7sSjwvhgj6MhMd3tM5gDalXjVuLE8adWECY-lHJQDti0omC--csBMB7Y9pV6KZNFtWObCRDAlL41Er2U4ZRxeOraw6Ju2jVOWIb4uulSQVz4yjg1CiD_AZBVKwBhUHeAd8XWCZnx2B6vwRD6fDPEcCvAQ2CXS_6ZTevo8wwgRqAU-k060BYNssHsaUwWr78D3RA8-fCCyUFr1KAwdeD1gnUht-C_ZNmPk90YCJUahrDpSUI0_iTBZmYRAuSYpbOSWoj5dg49wISF&response_mode=form_post&nonce=638968141675037191.ZTIwNzY1YmEtNjFmNi00Njc3LTliZWMtYzAxNGZiZDc0ZGEwYjQ0OWZhYTktMTE0Yi00NTgyLWI4ZWEtYzRkNTE1MmY4YzQ5&prompt=none&code_challenge=Q3baY0L5qeCC_NV_1E7GEME4xs25xxt18epnoMSabew&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=652314f0232d4e64a7e9b2d90d91ff8c&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKNeTNtb9XLHDNHwFqYSY8OUrtHClTT8Iq2SAezVEDG2lUag6r4mg6HLn9fE2jZ3lL8FnsB-7XEOU92avytzVvu-WhSoKH_IKBQ6ITNtJTdOopDeznN_01siasMzsyy133jFYBfz2sj2o-UllDIOSqElCUSUSOSvPTtoQi1S-PRFzVAVvSHtjY8Uv60p7d7kZBnsBET7VR-RcKIoEJoEKZsCAA&jshs=0
+[2025-10-23 14:02:50.179] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:02:50.181] Document completed loading: https://www.bing.com/
+[2025-10-23 14:02:50.183] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 14:02:50.318] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:02:50.318] Document completed loading: https://www.bing.com/
+[2025-10-23 14:02:56.199] Blocked keyword added: 'balls'
+[2025-10-23 14:03:01.456] Attempting navigation to: https://www.bing.com/search?q=balls&form=QBLH&sp=-1&lq=0&pq=b&sc=0-1&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8
+[2025-10-23 14:03:01.456] BLOCKED: Navigation to 'https://www.bing.com/search?q=balls&form=QBLH&sp=-1&lq=0&pq=b&sc=0-1&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8' blocked by keyword: 'balls'
+[2025-10-23 14:03:07.385] Blocked keyword added: 'sixseven'
+[2025-10-23 14:03:10.088] Blocked keyword added: '67'
+[2025-10-23 14:03:15.465] Blocked keyword added: 'tiktok'
+[2025-10-23 14:03:22.736] Attempting navigation to: https://www.bing.com/search?q=sixseven&form=QBLH&sp=-1&lq=0&pq=sixseven&sc=0-8&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8
+[2025-10-23 14:03:22.736] BLOCKED: Navigation to 'https://www.bing.com/search?q=sixseven&form=QBLH&sp=-1&lq=0&pq=sixseven&sc=0-8&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8' blocked by keyword: 'sixseven'
+[2025-10-23 14:03:30.488] Attempting navigation to: https://www.bing.com/search?q=six+seven+meme&form=QBLH&sp=-1&lq=0&pq=six+seven+mem&sc=0-13&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8
+[2025-10-23 14:03:30.704] Successfully navigated to: https://www.bing.com/search?q=six+seven+meme&form=QBLH&sp=-1&lq=0&pq=six+seven+mem&sc=0-13&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8
+[2025-10-23 14:03:31.059] Document completed loading: https://www.bing.com/search?q=six+seven+meme&form=QBLH&sp=-1&lq=0&pq=six+seven+mem&sc=0-13&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8
+[2025-10-23 14:03:33.309] Attempting navigation to: about:blank
+[2025-10-23 14:03:33.313] Document completed loading: https://www.bing.com/search?q=six+seven+meme&form=QBLH&sp=-1&lq=0&pq=six+seven+mem&sc=0-13&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8
+[2025-10-23 14:03:34.123] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:03:34.458] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQuFUDRrsx2LDEw3vC1M66q_4q9EC5dfX2VINuNmANQVjyASwnvroGUpuUC58ESkXcugSVdqHMLsE6r_4cvGNqrgmqeM082HIhpw7QllpkqcZE7XquUXg7sQOz3gqLkgGn60f4DJY0PJbWb6TS9WvR22h-YlE3fYuSRMhwiY3mgKl6p0mk8bCYvTv87o7FqEPj9wGnLAJ3tmE1FcDYb8P3LNLt1EaOF_aprR1bKm2hFcxHU7khjDZMJCw3QEEAgbp5fKZ-EllFAErQ2YtZ754TpgEBdkDBDmv_3MGjw59ZCuRF_Niap6JlLCcBqxvsTOpwBY0BZycTupQu0TMnBGTgmYEqVmx-x7JVUWuxrB0SoEGhPbeh48Yx1O5H73WkowGc1b1GGZ2XNnk5O8rI5Y-_Hx&response_mode=form_post&nonce=638968142127168853.YTUxYzcxZDUtMWM4My00NmRlLTg5YmEtYTkyNWM4OTRmZWZiODY1NTFmYzUtYzk2OS00MDMxLWI3NjMtMmRjYjljZmEyZGFl&prompt=none&code_challenge=FuCOV0KyHwrZJPNbDrwzwY4_p1hhg6DcLcpVClM03SI&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=594de5962b68486d8f68c6773001bf2b&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKLP0AfTpKBwO703ISoEhrm-bIfKBilNKDXitlFMANrjmHjIv-vxe_nSxa9XXeof8oHpjGY7kps6p3m0U3K2dwns2K9wAiZiZCkEc7ipqlg6VRnpAW6uYpPZb0kPjlCxYWyBhXYfXwD0pJ02A8MQteRQkxi131Q_uLctgCAHMsm84KuH4SKoaoogrdZY9ySNczt3dR_dl-YWDi45DzD65xzyAA&jshs=0
+[2025-10-23 14:03:34.458] BLOCKED: Navigation to 'https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQuFUDRrsx2LDEw3vC1M66q_4q9EC5dfX2VINuNmANQVjyASwnvroGUpuUC58ESkXcugSVdqHMLsE6r_4cvGNqrgmqeM082HIhpw7QllpkqcZE7XquUXg7sQOz3gqLkgGn60f4DJY0PJbWb6TS9WvR22h-YlE3fYuSRMhwiY3mgKl6p0mk8bCYvTv87o7FqEPj9wGnLAJ3tmE1FcDYb8P3LNLt1EaOF_aprR1bKm2hFcxHU7khjDZMJCw3QEEAgbp5fKZ-EllFAErQ2YtZ754TpgEBdkDBDmv_3MGjw59ZCuRF_Niap6JlLCcBqxvsTOpwBY0BZycTupQu0TMnBGTgmYEqVmx-x7JVUWuxrB0SoEGhPbeh48Yx1O5H73WkowGc1b1GGZ2XNnk5O8rI5Y-_Hx&response_mode=form_post&nonce=638968142127168853.YTUxYzcxZDUtMWM4My00NmRlLTg5YmEtYTkyNWM4OTRmZWZiODY1NTFmYzUtYzk2OS00MDMxLWI3NjMtMmRjYjljZmEyZGFl&prompt=none&code_challenge=FuCOV0KyHwrZJPNbDrwzwY4_p1hhg6DcLcpVClM03SI&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=594de5962b68486d8f68c6773001bf2b&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKLP0AfTpKBwO703ISoEhrm-bIfKBilNKDXitlFMANrjmHjIv-vxe_nSxa9XXeof8oHpjGY7kps6p3m0U3K2dwns2K9wAiZiZCkEc7ipqlg6VRnpAW6uYpPZb0kPjlCxYWyBhXYfXwD0pJ02A8MQteRQkxi131Q_uLctgCAHMsm84KuH4SKoaoogrdZY9ySNczt3dR_dl-YWDi45DzD65xzyAA&jshs=0' blocked by keyword: '67'
+[2025-10-23 14:03:38.375] Successfully navigated to: https://www.bing.com/search?q=six+seven+meme&form=QBLH&sp=-1&lq=0&pq=six+seven+mem&sc=0-13&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8
+[2025-10-23 14:03:38.377] Document completed loading: https://www.bing.com/search?q=six+seven+meme&form=QBLH&sp=-1&lq=0&pq=six+seven+mem&sc=0-13&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8
+[2025-10-23 14:03:39.136] Attempting navigation to: https://en.wikipedia.org/wiki/6-7_(meme)
+[2025-10-23 14:03:39.716] Successfully navigated to: https://en.wikipedia.org/wiki/6-7_(meme)
+[2025-10-23 14:04:31.995] Back button clicked
+[2025-10-23 14:04:31.997] Attempting navigation to: https://www.bing.com/search?q=six+seven+meme&form=QBLH&sp=-1&lq=0&pq=six+seven+mem&sc=0-13&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8
+[2025-10-23 14:04:32.006] Navigated back in history
+[2025-10-23 14:04:32.021] Successfully navigated to: https://www.bing.com/search?q=six+seven+meme&form=QBLH&sp=-1&lq=0&pq=six+seven+mem&sc=0-13&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8
+[2025-10-23 14:04:32.065] Document completed loading: https://www.bing.com/search?q=six+seven+meme&form=QBLH&sp=-1&lq=0&pq=six+seven+mem&sc=0-13&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8
+[2025-10-23 14:04:32.230] Attempting navigation to: about:blank
+[2025-10-23 14:04:32.232] Document completed loading: https://www.bing.com/search?q=six+seven+meme&form=QBLH&sp=-1&lq=0&pq=six+seven+mem&sc=0-13&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8
+[2025-10-23 14:04:32.265] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:04:32.587] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQuAjgwM_faa-duEdOxbh35Nxos4OtpBYbVCMOq2a-uQDE5YMWlxkuv5Q5UP30s5bK1j2KynZBQ1xwv7pOLqemKjuRRyrL6qlpXJ4qlaaMbXYcFWuQTNhxaWEs8CshxTBqIwsHFAqfiOuzF1ZdDcRYOLfgcYgGZgtwSxXrrqs1ZHTZ9GPs9ZEvH-OCADa9M2bQp2IahqL1t2Us8FTjLLeCBlB5vQD3yB2TmuSC1MuZYZgK7P5QX6TvytrgPHmaVnxEe9T1sxePU3d7RewVsQkT2Gvrs7rL-KhUKsG4mY377ABFU0mYV_Pfg2GsFehVg-ZoLHfBvN70O5BPg1na0YV7TLHPTUebdPcUhQqHyUBTMt9h_APe7G72PqQ3vEtVVlWo-8aVFt6-aXttDk5Gp_5nEl&response_mode=form_post&nonce=638968142708752672.N2UxZDJkNmQtZTFhNS00YmEyLWE1ZmEtMDIyN2JmNGRhMjI2NmNhMGNhNzktZDc1Mi00MmY5LThiNDQtODgwNmQ4NDg5ZDFl&prompt=none&code_challenge=YdcANQtjmC630LUBER25kzsAGJ46oWuWNhrDH1Csf0g&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=8559da1f84704c54b496d4920f391b30&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKW4DmNajdE0-C2tcOSLjFiVPB0JNdnirVwTHJmH2s_nclt1nTPwTO_3vFJ8aKF2JDpVcelw6R_VkEnGCuagH1uXLWv4RGZTdHZKuY4MrFQpnd6rPX88GSSB9h3VZYmdmuojewopKythbYvOja4Mx90fddZex2QzgNlFBFd58YtQOmmxxxwZxL6wIJPwpDRcgyQKiNljtmDxGkqwu2G6N46SAA&jshs=0
+[2025-10-23 14:04:32.587] BLOCKED: Navigation to 'https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQuAjgwM_faa-duEdOxbh35Nxos4OtpBYbVCMOq2a-uQDE5YMWlxkuv5Q5UP30s5bK1j2KynZBQ1xwv7pOLqemKjuRRyrL6qlpXJ4qlaaMbXYcFWuQTNhxaWEs8CshxTBqIwsHFAqfiOuzF1ZdDcRYOLfgcYgGZgtwSxXrrqs1ZHTZ9GPs9ZEvH-OCADa9M2bQp2IahqL1t2Us8FTjLLeCBlB5vQD3yB2TmuSC1MuZYZgK7P5QX6TvytrgPHmaVnxEe9T1sxePU3d7RewVsQkT2Gvrs7rL-KhUKsG4mY377ABFU0mYV_Pfg2GsFehVg-ZoLHfBvN70O5BPg1na0YV7TLHPTUebdPcUhQqHyUBTMt9h_APe7G72PqQ3vEtVVlWo-8aVFt6-aXttDk5Gp_5nEl&response_mode=form_post&nonce=638968142708752672.N2UxZDJkNmQtZTFhNS00YmEyLWE1ZmEtMDIyN2JmNGRhMjI2NmNhMGNhNzktZDc1Mi00MmY5LThiNDQtODgwNmQ4NDg5ZDFl&prompt=none&code_challenge=YdcANQtjmC630LUBER25kzsAGJ46oWuWNhrDH1Csf0g&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=8559da1f84704c54b496d4920f391b30&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKW4DmNajdE0-C2tcOSLjFiVPB0JNdnirVwTHJmH2s_nclt1nTPwTO_3vFJ8aKF2JDpVcelw6R_VkEnGCuagH1uXLWv4RGZTdHZKuY4MrFQpnd6rPX88GSSB9h3VZYmdmuojewopKythbYvOja4Mx90fddZex2QzgNlFBFd58YtQOmmxxxwZxL6wIJPwpDRcgyQKiNljtmDxGkqwu2G6N46SAA&jshs=0' blocked by keyword: '67'
+[2025-10-23 14:04:34.172] Successfully navigated to: https://www.bing.com/search?q=six+seven+meme&form=QBLH&sp=-1&lq=0&pq=six+seven+mem&sc=0-13&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8
+[2025-10-23 14:04:34.175] Document completed loading: https://www.bing.com/search?q=six+seven+meme&form=QBLH&sp=-1&lq=0&pq=six+seven+mem&sc=0-13&qs=n&sk=&cvid=5E15AC55047140D6B487E62DF39C9DB8
+[2025-10-23 14:04:37.795] Application closing
+[2025-10-23 14:13:37.423] Application started
+[2025-10-23 14:13:37.431] Form loaded
+[2025-10-23 14:13:37.438] Starting async navigation to: https://www.bing.com/
+[2025-10-23 14:13:37.471] Attempting navigation to: https://www.bing.com/
+[2025-10-23 14:13:37.885] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:13:38.019] Document completed loading: https://www.bing.com/
+[2025-10-23 14:13:39.717] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:13:40.082] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQsZY7saC9HEXJNHGGS8Gjef0_RrWSG0RssycdvBX1WWRlbfuUtoTXdoStrxKW5vBVkYNsdzcDV4C-NvYf5eztEsVcVFjQT3V2d65-aTkl6MyPLaE3cR6ucRcP66B_b-HtW7-XV23SJc7-_T5vobMcTzibTJ9s8DizUghARy4Nk2rcSbBJNDYVMPY2erAiVsu48tqgReeIraTYR_I-E8wnHBhmOH6eP0pQB21MPmwfvwnknk_wWbKSySpHPtDdewo3XfWX0MJP4elkVZhm1t1kbuz7UmAVS02RQ6WRcEyOQM3rqxAoY4hvX44y02LExvvx7sPQAuqF7a1HF9pj_fz4Ai6_fHzqJMs0Nk1KJW6M06cI0h9zfubFOL1c9HS9Y5eYN1zSD1vquXjfp629tpP-iR&response_mode=form_post&nonce=638968148183178730.MmM0NTZjYTMtZjJjOS00NGQxLWJjYzYtNWU5OWU2YTlmODhjZDQ1NmMyYjgtNWJkYS00ZjdkLWFhOGMtZWI4MjhjMzIxYjNj&prompt=none&code_challenge=3WTa1ZtrsglQ0srtSDy7eDWqv8rdhmVCBjC3HThCcEM&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=1f3d72b64d584c7489f12fba9bbaf517&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKWl244_cEFW6oW1l-BltBYVGtyPi2hGwk1xNCizEImh_dSGjKMiBZ4KEdgH8hACDGKmy39h69z6Vyoe2xzThlcn3PZQrCB3W0pQfGJ3QeDEgO6p7Zfh-WnDIXAePWhThnVwcAaG8xRzaODdlexXpk0xqIacRDsjEXwhiBPi8mCSTUfFsUSnhGbUNcsZ2I57apYghzOfapSssxmwRpttUACCAA&jshs=0
+[2025-10-23 14:13:40.503] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:13:40.504] Document completed loading: https://www.bing.com/
+[2025-10-23 14:13:40.505] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 14:13:40.712] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:13:40.712] Document completed loading: https://www.bing.com/
+[2025-10-23 14:15:00.736] Application started
+[2025-10-23 14:15:00.744] Form loaded
+[2025-10-23 14:15:00.749] Starting async navigation to: https://www.bing.com/
+[2025-10-23 14:15:00.786] Attempting navigation to: https://www.bing.com/
+[2025-10-23 14:15:01.241] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:15:01.347] Document completed loading: https://www.bing.com/
+[2025-10-23 14:15:03.143] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:15:03.525] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQtgfUEBKAg4vHENV6gMCHT-GEukcH5fu37caX6zntotlDqWE_WMTym4ON9suY-0bRbuV_yKiWS8Dd78791dR6Jv2DH4eegNmWt-d_jB2rVqx-vSnYb83mnuTIK4AgiVHLNxx0gEKxHzP_yNUusue94ZhUF1CV0kQ5Gm3DcOUfP83tDPdB_GM4Cq15ZKTWgQRhtVGlJXDGLMySHioeMNLutJRE2z5j2sqSQMFQ-oSo_1IW4LzeCzPlo6YjiV3ouV6wAPMZLJ-qNBfFmbZZXH0A83DJ38AGmQxhSlKlqDzsPoXyTbSdFIvkPxbXJxu5pUHNH6-w_w3mZCmIQ9t7PoCovgUVYUHNjcMTQV7GsUuUPQWDxSZgP8Gvn7jo3its17fWkVL0SgLaoiIxKeQy4ePacV&response_mode=form_post&nonce=638968149017655803.YjM0MWZhYmItYzYwYy00ZDg5LWFkOGQtYjRlZGI2M2IwNzBmZmMyM2MzNjQtNWQwYy00ODk3LTljZGQtYTJjYmRhZTg4MGYz&prompt=none&code_challenge=FwJAFMz3NaFKJZPh-qFXc2Ff4Zfcsh90ScHgyUssLvc&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=84217a05c78c4e70af4439c9461a632f&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtK9drBUHLYK7Y2PnHdM7ZbiHCDRjp_NT0uYPaWs1zFnlJ2fxZ6uRBbfjv5VQS3U5cVCw2xZGW2pH-b7dyE38qmodsAkr2LLBOhF7JU1xfoxbICHt8G-eEwZIY_LVPEFrE9Va6MIAqzqFu1pAuGC_KbGCZKqBl_RAsldByfjikoD_lcorW22V5UyiDqEyStUiIhyfNePdv68UKmFv0ohZXVbyAA&jshs=0
+[2025-10-23 14:15:03.932] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:15:03.933] Document completed loading: https://www.bing.com/
+[2025-10-23 14:15:03.935] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 14:15:04.068] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:15:04.069] Document completed loading: https://www.bing.com/
+[2025-10-23 14:15:06.020] Blocked keyword added: 'sixseven'
+[2025-10-23 14:15:10.169] Attempting navigation to: https://www.bing.com/search?q=sixseven&form=QBLH&sp=-1&lq=0&pq=sixseve&sc=0-7&qs=n&sk=&cvid=2C849517F8964E339C4A2A4BC8612223
+[2025-10-23 14:15:10.170] BLOCKED: Navigation to 'https://www.bing.com/search?q=sixseven&form=QBLH&sp=-1&lq=0&pq=sixseve&sc=0-7&qs=n&sk=&cvid=2C849517F8964E339C4A2A4BC8612223' blocked by keyword: 'sixseven'
+[2025-10-23 14:15:14.613] Attempting navigation to: https://www.bing.com/search?q=sixs+even&form=QBLH&sp=-1&lq=0&pq=sixs+even&sc=0-9&qs=n&sk=&cvid=2C849517F8964E339C4A2A4BC8612223
+[2025-10-23 14:15:14.926] Successfully navigated to: https://www.bing.com/search?q=sixs+even&form=QBLH&sp=-1&lq=0&pq=sixs+even&sc=0-9&qs=n&sk=&cvid=2C849517F8964E339C4A2A4BC8612223
+[2025-10-23 14:15:15.410] Document completed loading: https://www.bing.com/search?q=sixs+even&form=QBLH&sp=-1&lq=0&pq=sixs+even&sc=0-9&qs=n&sk=&cvid=2C849517F8964E339C4A2A4BC8612223
+[2025-10-23 14:15:17.704] Attempting navigation to: https://en.wikipedia.org/wiki/6-7_(meme)
+[2025-10-23 14:15:18.094] Successfully navigated to: https://en.wikipedia.org/wiki/6-7_(meme)
+[2025-10-23 14:15:18.310] Document completed loading: https://en.wikipedia.org/wiki/6-7_(meme)
+[2025-10-23 14:15:21.344] Application closing
+[2025-10-23 14:19:25.985] Saved 5 blocked keywords to file
+[2025-10-23 14:19:25.985] Initialized 5 default blocked keywords
+[2025-10-23 14:19:26.006] Application started
+[2025-10-23 14:19:26.015] Form loaded
+[2025-10-23 14:19:26.022] Starting async navigation to: https://www.bing.com/
+[2025-10-23 14:19:26.058] Attempting navigation to: https://www.bing.com/
+[2025-10-23 14:19:26.428] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:19:26.534] Document completed loading: https://www.bing.com/
+[2025-10-23 14:19:27.981] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:19:28.313] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQsL3vYe8BUe50wjOvNga2fm-bct9a7hm2bhgvIHk0pA8qZNacQL5TaJ0n-iEgfnaJC3ob3eT_lx7msGj6P_R9P7bWjQ-Le9wQUUO9kK2kj24i1vQ0ft2x8vEdN9i-qvHrU6jJiBgXtmpeW44ntA3TMr-Y4AYbe2hk1Rs0cL3HAQ-nlz4WBgxgeQeQeOy__KnLsle2bSej2PQOE7hCRIoJ0222w3zX5xbegDdZtScbWHggtJRP8spcoFl6fUm6dgJwOkdKTIcUmqHHAzfZfbm-ZI-m82HRxmctpOviAwLB3gbGXy0cMyLtY2L6vkvnqLx8jNqdPZHDd0WyiNvlpCiVXKSPASJIh3aY3v1ftMlhwaTG-h-K_3PPRHdOp4Pp6Lvchdg_3rzufnu-mV0rGK-UYT&response_mode=form_post&nonce=638968151665799749.MWI1OTIzNjgtNDM0Yi00NDQ0LWI1YzMtNTM3ZmNlYWRlZGFjNTE3MWVlMGMtODc3Yi00NzcwLWI2ZmItODBiNjIxZmEzMTE1&prompt=none&code_challenge=ZIi53qqcS2g_2B8XMRdj44vYylcI1ajTrt05YDKEZnI&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=084c71a856444eae999e596ea5a6d6b7&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtK2equevcbGw8Azi2Es6nIWTLdnVLccynhbOYjfXTYwgmRDtO4WJWQdKEZWhBbvaZdYOaCY4yYbzGaA-LZN5jiWN9keIaNjT6aH-KLwQ-Qj1YCagpGPAWivMl0N--XdjRc8OWtBT0lPAs9rO8erDzmnaq89BfcwN-Wovds_4CvMO8Yg64Fxi-19xBpaB88CfqhTzEgGIt9rlsDHbgJze-oiCAA&jshs=0
+[2025-10-23 14:19:28.620] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:19:28.621] Document completed loading: https://www.bing.com/
+[2025-10-23 14:19:28.623] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 14:19:28.754] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:19:28.755] Document completed loading: https://www.bing.com/
+[2025-10-23 14:19:30.979] Blocked keyword added: 'nigger'
+[2025-10-23 14:19:30.980] Saved 6 blocked keywords to file
+[2025-10-23 14:19:35.944] Application closing
+[2025-10-23 14:19:35.944] Saved 6 blocked keywords to file
+[2025-10-23 14:19:52.883] Loaded 6 blocked keywords from file
+[2025-10-23 14:19:52.900] Application started
+[2025-10-23 14:19:52.908] Form loaded
+[2025-10-23 14:19:52.915] Starting async navigation to: https://www.bing.com/
+[2025-10-23 14:19:52.946] Attempting navigation to: https://www.bing.com/
+[2025-10-23 14:19:53.376] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:19:53.520] Document completed loading: https://www.bing.com/
+[2025-10-23 14:19:54.862] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:19:55.178] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQsbg-FsjgHIJRdsi3-dlfj2_jBZ0NQzB0TdUCsmmtdKQMTqqvOE3TI7M1kr97kMnlIqXBjqPfJoOWZFe6Z--oJNR3HnNrtHKSaLCGjfNmi1pOI5jqzaJf4hAcsP4XzHDbrERGIK0lNPHHgheMItYxIf87z4_GCuKe4nX4xgvpSHbWijRkYKcAexNTourUSguN_WRlrH_dhL6A3Yk59TsazyrJwktNO6yT_biF3wVsCE1sLUsgpBzedNRf8d7qJFFwe1Il7vxWrBMsTOQxN_9wk_mHpSCKxRsGBb4iOZKsAVOzv2gH2LE2DHXJUVyRudKL4v6X-EzouJLMcUBPe-TbqGZe908XNiIW469008uC34EGC5chmRmEHUoD172g6t2Jx2n8W7Ef_HuiOj3uUxnGXw&response_mode=form_post&nonce=638968151934537900.Y2VhNWU4ZDQtNTgyOC00YmMyLWFiYjctNzhkMzhkNThkM2FjYTM0MDllYWEtMDU4Zi00NTg2LTlkMzgtYWJhOGYyYjVkYTg1&prompt=none&code_challenge=bRecSs4DXVLQK3iPPeJct8Mb5PgSdIE3OIx5xTsw6SI&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=b91e28c7aee6437ea9462cfa539f4a79&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKyhptwa7MrocMbX_yWghcYugFa3XvxBiU0OR-fLTkwqj2lH2Nxz-T2YYW1lGocKoTOqNGkCDOyH014dgi5NY8I-dAfbSiLiiBeIYJur56bcwQCfcbPPlDUp1szOOKL5M-DQmJCdagY_UDWh99_vgQrvmtdAuo47p8ze_P8p6BGjbbKxgGcOhLUr_5h-v1Tgyo147mzx9jQXXNLk71f-FzLCAA&jshs=0
+[2025-10-23 14:19:55.512] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:19:55.513] Document completed loading: https://www.bing.com/
+[2025-10-23 14:19:55.514] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 14:19:55.643] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:19:55.643] Document completed loading: https://www.bing.com/
+[2025-10-23 14:19:59.680] Application closing
+[2025-10-23 14:19:59.681] Saved 6 blocked keywords to file
+[2025-10-23 14:22:33.148] Loaded 6 blocked keywords from file
+[2025-10-23 14:22:33.168] Application started
+[2025-10-23 14:22:33.175] Form loaded
+[2025-10-23 14:22:33.183] Starting async navigation to: https://www.bing.com/
+[2025-10-23 14:22:33.214] Attempting navigation to: https://www.bing.com/
+[2025-10-23 14:22:33.683] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:22:33.807] Document completed loading: https://www.bing.com/
+[2025-10-23 14:22:35.048] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:22:35.426] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQt_Jugfhz96pMMTMjYLI6oCg4XU1NNtaP01f3rwb1XepI-k7oQjRhB3EUGys8m-WUq6s-xZ-xx_F3l8OaTgFBY6-PtoLtiWDD1sK5omSF6k1mrvd0MY2FI-bMyIjNzoHAj4RICFhs3NbTeuAxwX7dVtNDSnCT4oUmh-mFULDZo_HRpwRvEQE8KGNGauVNJ2zYWUbSgUjuO5Q9ySqUwO8YIGCttq_IC0iV0lcCLcqHeYri9DxsMzRXLEwzPgJJMSivu9L_Bg8ozGmUGf2pfk2yg0WcHHwZboLHkOvtL9rUYmY2vmmmz5Nalg6u_kuM8QqMLbt0VkIkY06Bj8sQkAsRHn8algPaySNXYKNEJ7F53fpTIj3BLnFNNgGOgI3D0SoR13zSmCbiQqUj6jVsRx5hwf&response_mode=form_post&nonce=638968153536770036.MGMzYmJkMzQtZjg1Ni00YjgxLTg2OTktOGRmNTU2ZTU0YWEyMjk5Mjg3MTMtNDNiOC00NmM0LThmYjMtOGI1NDBkNjExN2E0&prompt=none&code_challenge=ymGSb3qcSlS3s-d4PJiTIBNCZ4IHhUWHTpSIM7uT1Ic&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=93c6ca2d983b4b1187481d29298ac761&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKlKj5wXR1KHbfw53cATytH8BS0RVda08864IXZgHq3VuIbvWBUD50BKNZ1r4jcYsASaNrUZ-V2wKZzZgx3WkxotvLbFOOFyIEVyI-jfKGCllOCGMQhVHFOBrba7c3u4icUnPgwDkvo8oM9pJxz-nlkYlbpUsQz7LKVh6LUR-SPDmj4L8XHnhvaTjCbx80qUqsm8EN8xM7xLAzVrUS8KrwISAA&jshs=0
+[2025-10-23 14:22:35.849] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:22:35.850] Document completed loading: https://www.bing.com/
+[2025-10-23 14:22:35.851] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 14:22:36.019] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:22:36.020] Document completed loading: https://www.bing.com/
+[2025-10-23 14:22:39.280] Add blocked keyword failed: 'nigger' already exists
+[2025-10-23 14:22:51.123] Blocked keyword added: 'nigga'
+[2025-10-23 14:22:51.124] Saved 7 blocked keywords to file
+[2025-10-23 14:23:01.734] Blocked keyword added: 'six seven'
+[2025-10-23 14:23:01.736] Saved 8 blocked keywords to file
+[2025-10-23 14:24:27.725] Attempting navigation to: https://www.bing.com/search?q=chatgpt&form=QBLH&sp=-1&lq=0&pq=chatgp&sc=0-6&qs=n&sk=&cvid=748A9A1DE194452D849C266D79D95307
+[2025-10-23 14:24:28.027] Successfully navigated to: https://www.bing.com/search?q=chatgpt&form=QBLH&sp=-1&lq=0&pq=chatgp&sc=0-6&qs=n&sk=&cvid=748A9A1DE194452D849C266D79D95307
+[2025-10-23 14:24:28.286] Document completed loading: https://www.bing.com/search?q=chatgpt&form=QBLH&sp=-1&lq=0&pq=chatgp&sc=0-6&qs=n&sk=&cvid=748A9A1DE194452D849C266D79D95307
+[2025-10-23 14:24:30.325] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:24:30.864] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQtj2x__d3HKqUGlwF1frSghG_WrK74hMwJhD_tmJxACyr97hOGUReoeQ1xcODIVUOYWxxRwgJM5118w-o0FPmNnaD2k6lDN01EZxDRcyR0zPgMDX4rBnEuIyAMinnAiVyWDx7fbKLxUKeQZGEjXJ9MSH0ZG7ToJayUy1YvUnDhcpTx9K4minNFTdekREOJQegO7wFPtfoq02On61tZ2KoNrGA_vWipWib_juqkqOaSJJ07UuWjBMEw_OdSk4XvA9xozryRPCpKURf3POERXkxwlxFR5VYgrpBJjFevmzdw3EV6Ofopn7Okf8zRwzgpC6Yh4YdVjU1LqStt9Ky-7MOKMKFJpYgqU2ZYeGExn3AhVRFxYOqNjYdDaDlBf3vpuojcU0EyXSWPNBfz7c_f9PqLz&response_mode=form_post&nonce=638968154689455075.ZDQwNzdiYWUtMjU1MC00NWUzLWJmNzItM2FmODNhZjNiNDA3YmRhMGUyMTMtOTc3YS00MGYyLWJlZWEtMTZlZGVmNTU2YTRh&prompt=none&code_challenge=G8x-Pv9BFgrelYn2tMq0VIkPmfzuTI4xJm73LDu6W1M&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=5170ad7b17f6436cb2ccfa7d20f035d8&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKmTwZmcl70Cet5lLmc94lGpluZGzMyp146YhVb71zwdPt_xwKRkGMMNoPKCtjGux3pQthNJ0mIwPSRXLCdLnWp_rUMwWLdYdjA-B1Pbyz-4rUEIGnPlOyrFLJwENN92qB8RVPM1mUok_1ZxHGv_X0xApVE-lK3ZcTvehrG2UeTTwDEtqQZDyQ7MbFGy8ewfqHppxanR1dmdr239IbgTe5iSAA&jshs=0
+[2025-10-23 14:24:31.477] Successfully navigated to: https://www.bing.com/search?q=chatgpt&form=QBLH&sp=-1&lq=0&pq=chatgp&sc=0-6&qs=n&sk=&cvid=748A9A1DE194452D849C266D79D95307
+[2025-10-23 14:24:31.479] Document completed loading: https://www.bing.com/search?q=chatgpt&form=QBLH&sp=-1&lq=0&pq=chatgp&sc=0-6&qs=n&sk=&cvid=748A9A1DE194452D849C266D79D95307
+[2025-10-23 14:24:31.481] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 14:24:31.601] Successfully navigated to: https://www.bing.com/search?q=chatgpt&form=QBLH&sp=-1&lq=0&pq=chatgp&sc=0-6&qs=n&sk=&cvid=748A9A1DE194452D849C266D79D95307
+[2025-10-23 14:24:31.602] Document completed loading: https://www.bing.com/search?q=chatgpt&form=QBLH&sp=-1&lq=0&pq=chatgp&sc=0-6&qs=n&sk=&cvid=748A9A1DE194452D849C266D79D95307
+[2025-10-23 14:25:44.902] Application closing
+[2025-10-23 14:25:44.940] Saved 8 blocked keywords to file
+[2025-10-23 14:44:27.083] Loaded 8 blocked keywords from file
+[2025-10-23 14:44:27.102] Application started
+[2025-10-23 14:44:27.111] Form loaded
+[2025-10-23 14:44:27.122] Starting async navigation to: https://www.bing.com/
+[2025-10-23 14:44:27.154] Attempting navigation to: https://www.bing.com/
+[2025-10-23 14:44:27.565] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:44:27.684] Document completed loading: https://www.bing.com/
+[2025-10-23 14:44:28.998] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:44:29.330] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQvy-gy3J60wqUL0tLhaaqgqSS_XQTVyVkqQ_d1lMGzqqK0M6luJw-wEmfjn6zz2ac4kehHfliA8Z5i8jQD16IvIz8sxLRSX0PQCQWmgOYk60WX_Y-duOWpgM1vGsghulWRWE3TLGJIpbfCyzhkEAqTqkO12Hhz3v3pfTA6PREbXoTVYuDAZX-UD8yFn0eFTVYG0s-_d3JCdkY7j9o837AJvOPKM2HMtQMW82mVUJr2MJ7h9KjcgaQlTg3Wz9rbph0dvSqAQ3s1CluaLmzIM1PpE2ALr0pfoq4DutsGJ3NBAIrlzTWDLragEsPK7zBwLE7saR9CoTYr1jOPJ8X2dJjyyBTBV2VODnpzizV15R78Lzo_BoWdDMKIlGnM5LAPVZ8a6mCqzISRmft7wdW1UIIRi&response_mode=form_post&nonce=638968166676286716.NTAzZmJhNmEtODNiMC00YmMxLWI2MDItOWQ1YTQ5ZmViNGYxYjc1OTM2MzUtNTUwZC00OWNiLWEwM2QtYTM5YWQ4N2M0MGRi&prompt=none&code_challenge=yuzP9_wMZYkej3tab3MYf5F-9lqVpkn168aImHyeta4&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=f8561a1c09334175807e6d8577a32549&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtK03KDGYbgLrwFOCQGXlp9pYGA-fLFNtxvwiBzFqM4aed6zQE8_IyENPhrPmn_M2EVFZD-couFA7T0-4TajRvvmmdA_49jS4rx-40nWmRWUcpkKaV4swPl9zeXMjMW65zOYe_PLYEjlAx45s5ebk74BGJkreYF2fYGVKVu96skBK5yX1nRCe4P0drLTvGBOt4e-xi-UBZZQcDorKpw5dymySAA&jshs=0
+[2025-10-23 14:44:29.664] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:44:29.665] Document completed loading: https://www.bing.com/
+[2025-10-23 14:44:29.667] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 14:44:29.801] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:44:29.801] Document completed loading: https://www.bing.com/
+[2025-10-23 14:44:33.703] Attempting navigation to: https://www.bing.com/search?q=porn&form=QBLH&sp=-1&lq=0&pq=por&sc=0-3&qs=n&sk=&cvid=A5FB0E5FF0A94C61B74AD5BAC91C6082
+[2025-10-23 14:44:34.040] Successfully navigated to: https://www.bing.com/search?q=porn&form=QBLH&sp=-1&lq=0&pq=por&sc=0-3&qs=n&sk=&cvid=A5FB0E5FF0A94C61B74AD5BAC91C6082
+[2025-10-23 14:44:34.315] Document completed loading: https://www.bing.com/search?q=porn&form=QBLH&sp=-1&lq=0&pq=por&sc=0-3&qs=n&sk=&cvid=A5FB0E5FF0A94C61B74AD5BAC91C6082
+[2025-10-23 14:44:35.875] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:44:36.168] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQthc28xnTXsqmDdcj5H-FKamrFcx2cue5Ue3B5Rrine0Qk_q1dxoWvyhYbgaQszr9BKVycbHrY4iEOyJRpeujPujqgbpkPwi7zp56xjpeyk3YzhAcoqn2TDVEpXHxmTua6piX6iu2M_6Bnxni2J22sPzTNjcVPHwm9nFhR4uPqvVrCFt_k9GyL7_-ZB8zmsPFWQauXN-xl1G2PCFEqCOK1C67L9IKEEUdc1OcchB_ej7IeM6HAfYYmUtcaai_fYKQP81NcTemIaa9NHoEP0BPBpVFVlx0uqRf10S6UUU32-xEG5vWZ__9mzqEruv-FHsqsigw_3cXDvHuaHGJ-EnE9MYzwx4akxEeLeoq9s-LxUFyS3F8HpM29L6bmKWT_KCR1pL7qCADnfrEo1-LkgZ9sV&response_mode=form_post&nonce=638968166745118942.ODFmMjk5M2YtMjIwMC00ZjRlLTg5NzQtOGY5Yzk5YzM5NjlhODBlMDRmMzMtZjM2My00ODNhLTk0YzMtN2UwMTAxZWNjMWMw&prompt=none&code_challenge=x4shci-k7HTUwmqnQRCMhhdCYTCArE9P2F1W6W54YUA&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=8e7decf9e36643c5b86ac28e136ed139&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtK8s4U5Dp2kVgbhiHy6fqvsPeKFo2TIH0GxCZFz8A3-DPhQGN25w02CO30B0JeInUHAQpfxoBcwN5n8db7qUqHMoMI0_hZ0RcC2REMhhyNtnb41X1Z0CBaHwJhk2UT-ZfoQ5f_t9KGwsXmdxQZG05qd-X5Xf4QTO1Y4t4vBMnLdZv8ng5fWJyM9mve4iGVN0_wUSeA6Kq5ipw0nSyQbIC99iAA&jshs=0
+[2025-10-23 14:44:36.468] Successfully navigated to: https://www.bing.com/search?q=porn&form=QBLH&sp=-1&lq=0&pq=por&sc=0-3&qs=n&sk=&cvid=A5FB0E5FF0A94C61B74AD5BAC91C6082
+[2025-10-23 14:44:36.470] Document completed loading: https://www.bing.com/search?q=porn&form=QBLH&sp=-1&lq=0&pq=por&sc=0-3&qs=n&sk=&cvid=A5FB0E5FF0A94C61B74AD5BAC91C6082
+[2025-10-23 14:44:36.471] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 14:44:36.593] Successfully navigated to: https://www.bing.com/search?q=porn&form=QBLH&sp=-1&lq=0&pq=por&sc=0-3&qs=n&sk=&cvid=A5FB0E5FF0A94C61B74AD5BAC91C6082
+[2025-10-23 14:44:36.594] Document completed loading: https://www.bing.com/search?q=porn&form=QBLH&sp=-1&lq=0&pq=por&sc=0-3&qs=n&sk=&cvid=A5FB0E5FF0A94C61B74AD5BAC91C6082
+[2025-10-23 14:44:37.728] Blocked keyword added: 'porn'
+[2025-10-23 14:44:37.730] Saved 9 blocked keywords to file
+[2025-10-23 14:44:40.426] Home button clicked - Navigating to: https://www.bing.com/
+[2025-10-23 14:44:40.426] Starting async navigation to: https://www.bing.com/
+[2025-10-23 14:44:40.427] Attempting navigation to: https://www.bing.com/
+[2025-10-23 14:44:40.577] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:44:40.657] Document completed loading: https://www.bing.com/
+[2025-10-23 14:44:41.760] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:44:42.024] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQu6ERnLaaDAJO-ju32snbM9A804O6_kwtaM4ioKzIVihLM2GBV1IJ4u8TuRHAnnEOkrx8IuzcYmWHUev_PNOD9gTNpfSg6YCjOmL4uv-g0g2PjkcsWrAhpMDYVNLjY2492X8bbGkfA8_gieL_FyUuvp8bgHdNxLPrLwskXma0sde1W8Cs5oTZK49p4f9Zp_7lbXfLu7wBs1n-x94TBkStpR3tj8wJGCvPTh_mDOvVwLA99rscOKTwdlhgWFylS5tZvUl_pjOoHs5DLsyyF37F5_D1cqjL7O4GsWKPKxHfoSGqhmQJzPBz8ySQ4oCY7qjJ5kYTqcN0SL_i_QQjGoGNk6HI-wrfQuGJc8YrqT1i7lGzbWiIT2YfY0N4FCEnk93E7RZo8tM3B8e9tnpcgVtQLJ&response_mode=form_post&nonce=638968166803948362.ODY3YjM4MTUtYjIyNC00OWQ4LTlkYzEtMzcwYWVhYTdkZDRkY2JiNjlhZGMtZGE2MC00NTU3LWJiNmEtZjAyMTM3YWQ1ZTFm&prompt=none&code_challenge=7tSc_lyvyGbdPtHJEAQUCO5NyFCpBVbsVAhVVOrNbrU&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=ddfacab8e2754611a17ffd037ffc80f9&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKA7nPXQAU9sQydGohWs57WzRXR-_tlRGO_KgTh7FM5f_Vn1g79gE_X2LwfOSmKcgFFX5Hdp9YyGo6CHlWq0gJ1pnO82X19lO1Q-6AKX9VDbcHNKMDwSQs0lcpmtoDiw665-sKGBbD48pZdWbmJwuiom-eDv15PiwSO6w_JB4oG3ihBfFubuZ-VtV1qSLHeBBFCb7QUyyvz3XuEDHmkV8KySAA&jshs=0
+[2025-10-23 14:44:42.317] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:44:42.318] Document completed loading: https://www.bing.com/
+[2025-10-23 14:44:42.321] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 14:44:42.442] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:44:42.443] Document completed loading: https://www.bing.com/
+[2025-10-23 14:44:42.620] Attempting navigation to: https://www.bing.com/search?q=porn&form=QBLH&sp=-1&lq=0&pq=porn&sc=0-4&qs=n&sk=&cvid=EC632E9797984D988F7D735BE73EF6E6
+[2025-10-23 14:44:42.620] BLOCKED: Navigation to 'https://www.bing.com/search?q=porn&form=QBLH&sp=-1&lq=0&pq=porn&sc=0-4&qs=n&sk=&cvid=EC632E9797984D988F7D735BE73EF6E6' blocked by keyword: 'porn'
+[2025-10-23 14:45:20.651] Attempting navigation to: https://www.bing.com/search?q=napi+szar&form=QBLH&sp=-1&lq=0&pq=napi+sza&sc=0-8&qs=n&sk=&cvid=EC632E9797984D988F7D735BE73EF6E6
+[2025-10-23 14:45:20.940] Successfully navigated to: https://www.bing.com/search?q=napi+szar&form=QBLH&sp=-1&lq=0&pq=napi+sza&sc=0-8&qs=n&sk=&cvid=EC632E9797984D988F7D735BE73EF6E6
+[2025-10-23 14:45:21.223] Document completed loading: https://www.bing.com/search?q=napi+szar&form=QBLH&sp=-1&lq=0&pq=napi+sza&sc=0-8&qs=n&sk=&cvid=EC632E9797984D988F7D735BE73EF6E6
+[2025-10-23 14:45:22.851] Attempting navigation to: about:blank
+[2025-10-23 14:45:22.854] Document completed loading: https://www.bing.com/search?q=napi+szar&form=QBLH&sp=-1&lq=0&pq=napi+sza&sc=0-8&qs=n&sk=&cvid=EC632E9797984D988F7D735BE73EF6E6
+[2025-10-23 14:45:23.402] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:45:23.665] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQvdmPmlPrXKyZ0L5iOZLMNNC8w-9CrWvsZJvUamZV0QEDjD5DFd9rH7zzAJ1uIvZcf7jvLzFRdAWIqIB-HqtfskRL-Z4jSVYA4vtmNH8RetsUR4NHbCO7PxrgDXsd4qfeHkB8MQ9YTWPmtd8x9plrZk5Esy_EEYnwkMKOzACfDplXLtTdfm52GlGBT9XMx7SUwQ1x3-jjQ0lTUkFgoQ2gOD5U2jeqQUbvqar7Bud_ruT1dYnLoCOGNXUlTLu005tX9okcokdmIocUl5iJATeautXwsh5pzY4kYMwQ7a1ncAf8BaGE3D3IpSBv71goDen0DXWx9xgokcOnkq1neCJo5VOOnZ6m7wwuquAXpxWy_fjqW2GdQLEeBo5oFiDT_VsNaLNKDeRFTj9o8eUkq7nqi4&response_mode=form_post&nonce=638968167220247443.Mzc1MzU5ZDMtOTFjOC00YWU2LTljNzQtMDYzMTU4NmE1ODNhMjVkOThkNWYtNTY2MC00NjRlLTg5ZWEtZGFlZmM0ODRiNDU2&prompt=none&code_challenge=wPAE_6AK7q-kjjtmbijMnRMADbYO3gc0F6QFG8EuuBQ&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=7b357840a87542e79f71fc6fc640eac8&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKxdg2Tmby-YAuThY2pI923uy1b9PQ46c1yBa2nGGYytMK1JSdUBETPApJmoUyQ3T8D4QISK49uNf1ikQN0gREXFjvEZBflsEMw82AkHg50ZNRLTjGl_ZrMxsKoq9rwlrk_Wm21RjR5hjiJlKbgIvlvB0ii3krvUakgkjSG_G8xGuchJG9IivVPL3u6cAWz7GWnpFaSX4CxKJpyuISX2DfziAA&jshs=0
+[2025-10-23 14:45:23.909] Successfully navigated to: https://www.bing.com/search?q=napi+szar&form=QBLH&sp=-1&lq=0&pq=napi+sza&sc=0-8&qs=n&sk=&cvid=EC632E9797984D988F7D735BE73EF6E6
+[2025-10-23 14:45:23.911] Document completed loading: https://www.bing.com/search?q=napi+szar&form=QBLH&sp=-1&lq=0&pq=napi+sza&sc=0-8&qs=n&sk=&cvid=EC632E9797984D988F7D735BE73EF6E6
+[2025-10-23 14:45:23.912] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 14:45:24.035] Successfully navigated to: https://www.bing.com/search?q=napi+szar&form=QBLH&sp=-1&lq=0&pq=napi+sza&sc=0-8&qs=n&sk=&cvid=EC632E9797984D988F7D735BE73EF6E6
+[2025-10-23 14:45:24.036] Document completed loading: https://www.bing.com/search?q=napi+szar&form=QBLH&sp=-1&lq=0&pq=napi+sza&sc=0-8&qs=n&sk=&cvid=EC632E9797984D988F7D735BE73EF6E6
+[2025-10-23 14:45:30.233] Attempting navigation to: https://www.napiszar.com/
+[2025-10-23 14:45:30.624] Successfully navigated to: https://www.napiszar.com/
+[2025-10-23 14:45:34.151] Attempting navigation to: https://www.redgifs.com/ifr/unrulyconfusedbarnacle
+[2025-10-23 14:45:34.163] Attempting navigation to: https://www.redgifs.com/ifr/fluffycloselamb
+[2025-10-23 14:45:34.307] Attempting navigation to: https://ab.napiszar.biz/banners/123.htm?1761219934307
+[2025-10-23 14:45:34.521] Successfully navigated to: https://www.napiszar.com/
+[2025-10-23 14:45:34.588] Attempting navigation to: about:blank
+[2025-10-23 14:45:34.597] Successfully navigated to: https://www.napiszar.com/
+[2025-10-23 14:45:34.599] Document completed loading: https://www.napiszar.com/
+[2025-10-23 14:45:34.753] Attempting navigation to: https://ab.napiszar.biz/banners/77.htm?1761219934753
+[2025-10-23 14:45:34.756] Attempting navigation to: https://ab.napiszar.biz/banners/143.htm?1761219934755
+[2025-10-23 14:45:35.162] Successfully navigated to: https://www.napiszar.com/
+[2025-10-23 14:45:35.164] Attempting navigation to: about:blank
+[2025-10-23 14:45:35.166] Successfully navigated to: https://www.napiszar.com/
+[2025-10-23 14:45:35.170] Successfully navigated to: https://www.napiszar.com/
+[2025-10-23 14:45:35.171] Document completed loading: https://www.napiszar.com/
+[2025-10-23 14:45:35.432] Attempting navigation to: about:blank
+[2025-10-23 14:45:35.435] Successfully navigated to: https://www.napiszar.com/
+[2025-10-23 14:45:35.436] Document completed loading: https://www.napiszar.com/
+[2025-10-23 14:45:35.436] Document completed loading: https://www.napiszar.com/
+[2025-10-23 14:45:36.244] Document completed loading: https://www.napiszar.com/
+[2025-10-23 14:45:36.326] Successfully navigated to: https://www.napiszar.com/
+[2025-10-23 14:45:36.344] Attempting navigation to: about:blank
+[2025-10-23 14:45:36.347] Attempting navigation to: about:blank
+[2025-10-23 14:45:36.349] Successfully navigated to: https://www.napiszar.com/
+[2025-10-23 14:45:36.352] Successfully navigated to: https://www.napiszar.com/
+[2025-10-23 14:45:36.353] Document completed loading: https://www.napiszar.com/
+[2025-10-23 14:45:36.353] Document completed loading: https://www.napiszar.com/
+[2025-10-23 14:45:36.354] Successfully navigated to: https://www.napiszar.com/
+[2025-10-23 14:45:36.354] Document completed loading: https://www.napiszar.com/
+[2025-10-23 14:45:36.354] Document completed loading: https://www.napiszar.com/
+[2025-10-23 14:45:36.787] Document completed loading: https://www.napiszar.com/
+[2025-10-23 14:45:54.157] Home button clicked - Navigating to: https://www.bing.com/
+[2025-10-23 14:45:54.157] Starting async navigation to: https://www.bing.com/
+[2025-10-23 14:45:54.158] Attempting navigation to: https://www.bing.com/
+[2025-10-23 14:45:54.354] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:45:54.431] Document completed loading: https://www.bing.com/
+[2025-10-23 14:45:55.687] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:45:55.942] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQtpM-0SARh7liGl0Z6AJYVaoCij-0yORygyXujtlASbpzfXRSEdmCEGku_oapLyz0QMq8dJmJwrj14tFsxw4HsmSZLj6_hWEqbej2n90gkLDRvuDdsvLCaL0unt-HGSZFUCwvN2SA_VFLODVSRtPF-6QAHWA5VSeCN5tj4ObGfp6s14rF7xe5A3U9b9mFVP4iRBDOeHG4Of4BkXTcHxgV92V7xJ98Nn27O_2vz4A0VTpzClTGov3hpjbRlHmql7govnCZzXM2CuCTCjoNPlovt4r1y9m5kLcX6mp2Y42sCmcK_yqXRahS7eX7D7E2A1VmXvScOaclbapYRotYZ8ClAFV07qbR3N9WmHgWOPtCVCrgi569Q-a5HcMOen8SvMAvcPJS6l7hBDbgTHj4rREVZL&response_mode=form_post&nonce=638968167543116333.NjZmNmJmMDQtZWU0Zi00YmY4LWI2NWEtOTM0YmYxYWI3Zjg3OTQ1Nzk0NWItMGYxMy00YjNhLTg5NDktM2FkM2NmNDY4OWQ2&prompt=none&code_challenge=yVZ-6fKBV6KmZnSB-6WCFoRyv73FLy-xSA2xsAqICq8&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=a7e9fb922fc848699bce5ff989f37f9c&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKpt-94kGlWgJiILzpQCJ019rRrtqTzP7KswTKjAGhmCIpCoF9oFKRIbwmcH1YECwCXfp6I_teRx-kcNaY8OpjtS8BsCttzxyeXysfNEJ4ifGosMpkS6WC0ZkOxmXbZbWJT-dnI5q6O7Pt7bFqaf5v2oIBdTJ_9YPZOcchtPvxXnbjclPydRhZEvimLOJrwf_RxFk4h3fesDUo9SrgLEgbsSAA&jshs=0
+[2025-10-23 14:45:56.362] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:45:56.364] Document completed loading: https://www.bing.com/
+[2025-10-23 14:45:56.366] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 14:45:56.489] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:45:56.490] Document completed loading: https://www.bing.com/
+[2025-10-23 14:46:12.314] Attempting navigation to: https://www.bing.com/images/search?view=detailv2&iss=sbiupload&FORM=SBIHMP&sbisrc=ImgPicker&idpbck=1&sbifsz=1024+x+1024+·+40.23+kB+·+jpeg&sbifnm=erikcheating.jpg&thw=1024&thh=1024&ptime=45&dlen=54932&expw=1024&exph=1024
+[2025-10-23 14:46:12.752] Successfully navigated to: https://www.bing.com/images/search?view=detailV2&insightsToken=bcid_VUEe14SXChUJqxcxoNWLuD9SqbotqVTdP8E&FORM=SBIHMP&vsimg=https%3a%2f%2fwww.bing.com%2fimages%2fblob%3fbcid%3dVUEe14SXChUJqxcxoNWLuD9SqbotqVTdP8E&iss=SBIUPLOADGET&sbisrc=ImgPicker&idpbck=1&sbifsz=1024+x+1024+·+40.23+kB+·+jpeg&sbifnm=erikcheating.jpg&thw=1024&thh=1024&ptime=45&dlen=54932&expw=1024&exph=1024
+[2025-10-23 14:46:13.409] Document completed loading: https://www.bing.com/images/search?view=detailV2&insightsToken=bcid_VUEe14SXChUJqxcxoNWLuD9SqbotqVTdP8E&FORM=SBIHMP&vsimg=https%3a%2f%2fwww.bing.com%2fimages%2fblob%3fbcid%3dVUEe14SXChUJqxcxoNWLuD9SqbotqVTdP8E&iss=SBIUPLOADGET&sbisrc=ImgPicker&idpbck=1&sbifsz=1024+x+1024+·+40.23+kB+·+jpeg&sbifnm=erikcheating.jpg&thw=1024&thh=1024&ptime=45&dlen=54932&expw=1024&exph=1024
+[2025-10-23 14:46:17.685] Home button clicked - Navigating to: https://www.bing.com/
+[2025-10-23 14:46:17.685] Starting async navigation to: https://www.bing.com/
+[2025-10-23 14:46:17.686] Attempting navigation to: https://www.bing.com/
+[2025-10-23 14:46:17.957] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:46:18.051] Document completed loading: https://www.bing.com/
+[2025-10-23 14:46:19.375] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:46:19.675] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQuTlhFDXsKQVFoevkCcEX8ahAcBEQ3bLIspmvTixS-vZvBdnvk_hZtAIuXtAKx7SsB4ocBNuVaWFcWRi8HMMB45jPxOTj25Z-Nm7RZzn_r3iudqcbIKwt0vAUK-amLLV4GUFz-wUJbpl5_VY7nl6Dag7Vt1mKX5ifkkEX9Hg2ZJYXv8RXI5P-luuyMrDrjv36XRaI65DEQ8FLqyD_h9vulY9fW9KUytNPwsVWCPPvZunZwvpE_4u0-3C_rizt59fyLDgGxTu6R0QERrxfqpSBl4j3-cKvDycXuSui6u4M7BTPvAdcaxj3lb8BlnCMPPmIoUAij5tfb9xn05ls7UNnrX1s2s_2B5K6pk6MldUGiM2zOrW9Y77O2hQwB0-zw_zN60zW4iqfmhEswX1b9HlOGV&response_mode=form_post&nonce=638968167780138919.MzhiNTE4ZGItOGNmZC00NWQ2LWI4MjgtNTI1YWM4NjcyNWMyOWIwNzVmODMtYzYwNS00NWMxLWFhYjgtZDQ5ZTdjNzhkZmY2&prompt=none&code_challenge=Q1PVyWp8mj3EHm0hanj9cCD_2H-DdAKb4ArN_I9y4DQ&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=c4a9067a597a461b9d3f356a0e76a652&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKoD1qJkOIpz7ZwBOIBEOGG69R1xvNDdD7e9a5Xy6wce_jLcpWvinCYNTH82U6GXHXyzrrjhYZ7tpGE35u5hNMC8ifyhPwCOS5OWyYkTRgfGbXOBpyX04_8GqX0R9KwVrn7JpAo81gxReNQJIkfn0saSyVP290n5rivm06DxFNq02NpQSyYcMI1-o9PFr-b6Qv4QYs6Ls9lCHwmqt7bCiy4yAA&jshs=0
+[2025-10-23 14:46:19.978] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:46:19.991] Document completed loading: https://www.bing.com/
+[2025-10-23 14:46:19.993] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 14:46:20.119] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:46:20.120] Document completed loading: https://www.bing.com/
+[2025-10-23 14:49:25.087] Home button clicked - Navigating to: https://www.bing.com/
+[2025-10-23 14:49:25.087] Starting async navigation to: https://www.bing.com/
+[2025-10-23 14:49:25.102] Attempting navigation to: https://www.bing.com/
+[2025-10-23 14:49:25.273] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:49:25.377] Document completed loading: https://www.bing.com/
+[2025-10-23 14:49:26.696] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-23 14:49:26.992] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQu3qOfeQtttyFu2sfhqi4ZmDmwTCwcq6Xvjd-I0qlZC-xTYTEauWJnSNQJndzTk5qVzhn506QFWbAUfgq_lqviMPEGtu2L0iXZ9BMxuMlBg07N_qfBSQud4rYOcPbAeph2AOrMgx1x_e_Yr7kR2tiY5HYQGxQaLMpd-H2j_T_K-JcJ-MiDGBUXH8qpjY73LKBro3TCMtVnxFaSgaeZif6gwW5gRcseYnROpe-5K3gjD1KFT81FJD3dfd7ef1LMOl4SsSu5xXT8zhzOrfBiAAWc1nlE-7y386kYRk73kMn2FQTIc16yjPnYZVEt9fy7B9a2dBg19EaN_2bvrUJ8RJa8OQll_Kags3yVOKhBSHceF_WBDVl-GhklYJqlS-UoBK98LeOxJtFqWXN24OzrWn_Op&response_mode=form_post&nonce=638968169653374757.ZDNkNTZmNGMtN2QzMy00NmQ1LWExNGMtYmQxYmFkODUwODJhOGNlOGFjNTAtZjdkMi00ZTM4LTg3MDEtZTc2YjIwZjliMmE5&prompt=none&code_challenge=qL5dxA58M8MvZUpZOHGVY_sYat-GrndxHymzMWfhKuc&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=1533b6908750457d89794b2baa55d927&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKsNhk1S9ekepCDUaKqsy5vAs28-oDytVIVuNBLa8wFKn0boSUP3PXaaynZowT8yA3yxpBFq8UcMT8YDVmSUduyGLaXhq2QtLtc0A8K8IGcLtlbIU1QcfVBigzaCsFyy4o_Jjc4aHwkXwjCQ-3jk99L9gj0dJ5zbYM2Jxw6h5Wjn_LYQoGsatGQ1xe__-65DTNSMWKMlWpHcLeoXeiLILnPiAA&jshs=0
+[2025-10-23 14:49:27.814] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:49:27.816] Document completed loading: https://www.bing.com/
+[2025-10-23 14:49:27.818] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-23 14:49:27.993] Successfully navigated to: https://www.bing.com/
+[2025-10-23 14:49:27.993] Document completed loading: https://www.bing.com/
+[2025-10-23 14:54:01.317] Application closing
+[2025-10-23 14:54:01.319] Saved 9 blocked keywords to file

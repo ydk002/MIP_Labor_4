@@ -1,0 +1,14 @@
+[2025-10-15 13:50:26.801] Application started
+[2025-10-15 13:50:26.835] Form loaded
+[2025-10-15 13:50:26.837] Starting async navigation to: https://www.bing.com
+[2025-10-15 13:50:26.976] Attempting navigation to: https://www.bing.com/
+[2025-10-15 13:50:27.452] Successfully navigated to: https://www.bing.com/
+[2025-10-15 13:50:28.975] Document completed loading: https://www.bing.com/
+[2025-10-15 13:50:32.104] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-10-15 13:50:32.514] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8ONjmqURwN9Bgygetv6pz_k6kE19I22FisuOQej_hUl6uY2sKYcCsA67dgITyh3HQuuhuLbTO9QlP5qxqEb4o1m6l6nwkUwgxm5ftmA6HKqfz4Z8FQBLWr7kQKNS3NgJqhT7EY_YGYd-Ylbey3XfW-dMOtBUX1KRg-oclPTsZjeIUWv-69ABOBs8heOAIwqKNp_RGh0ChufJVs3DgQVFRH5IOUKwLEuBxq3_p8oTLOLVTpmkGWmbo2KnJuyxTbT3nRi2sN4yC8sAL_R1kfRLKtwfZmgYHgOKv6DvIPrpQT83FhkS17ZRGczr7cMEABf54NPk6Gd77S_J76B0AHX_JZi9AZ-oM98O_uoB9WnIQUFsv6h7ysqCmW-rGLn_TtH2OLMB9Bsy4hweZb1cl7rq6e0ATNksphdePa4wEeiwv9HR&response_mode=form_post&nonce=638961222334542084.OWYzZmQxOGEtYzE1Yi00YTBkLWE0YWUtYWFmOTZhOGFlZDA2NjI2NmZjYWUtY2RjZC00YzQ3LWIzOGMtMDU2Yjk0NGY3MTAw&prompt=none&code_challenge=vQhRqLBMqTftImNmlz7iAUBKp7LjIEtYKqUccKVOJio&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=a9f66905af52425693d879877e76e977&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKsowdbgKY5vqLG5tbLoS0GORhP6cECF0dCHcdNTMDgViJMsLhHL6GIYHRvbSM5VDsdCpraHcxzt8gA5nnw8ihpfI-13EulG7PGFkZcyHXUzs4x5LVi0GUow2cKkEtaCm1a06H8RKF3c0Ave9daSpP6UrpFhaHwNcsi1YTxJZ6Qhd8goSEFV3JfYH8wo_pqiQNjQsZOZgBavHBtbnD9KK2qiAA&jshs=0
+[2025-10-15 13:50:32.810] Successfully navigated to: https://www.bing.com/
+[2025-10-15 13:50:32.812] Document completed loading: https://www.bing.com/
+[2025-10-15 13:50:32.813] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-10-15 13:50:33.082] Successfully navigated to: https://www.bing.com/
+[2025-10-15 13:50:33.084] Document completed loading: https://www.bing.com/
+[2025-10-15 13:51:15.006] Application closing
